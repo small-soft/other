@@ -1,0 +1,124 @@
+//
+// Prefix header for all source files of the 'AlibabaMobile' target in the 'AlibabaMobile' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import <Availability.h>
+#import <Foundation/Foundation.h>
+#import <QuartzCore/QuartzCore.h>
+#import <UIKit/UIKit.h>
+#import <CoreData/CoreData.h>
+#import "pinyin.h"
+
+#endif
+
+#ifdef DEBUG
+#define MYLOG(...) NSLog(__VA_ARGS__)
+#else
+#define MYLOG(...) do {} while (0)
+#endif
+
+
+#define ACCOUNT_SITE @"cnalichn"
+//#define ACCOUNT_SITE @"cntaobao"
+
+#define NOTIFICATION_MSG_HAS_READ @"WWMsgHasRead"
+
+#define NOTIFICAGION_LOGIN_SUCC         @"LOGINSUCC"
+#define NOTIFICATION_WW_LOGIN_EVENT     @"wwLoginEvent"
+#define NOTIFICATION_WW_LOGIN_SUCC      @"WWLOGINSUCC"
+#define NOTIFICATION_WW_LOGIN_DATAREADY @"WWLOGINDATAREADY"
+
+#define NOTIFICATION_WW_START_LOGIN     @"WWSTARTLOGIN"
+#define NOTIFICATION_WW_LOGIN_FAIL      @"WWLOGINFAIL"
+
+#define NOTIFICATION_DO_WW_LOGIN        @"doWwLogin"
+
+#define NOTIFICATION_PM_SET_FORMALUSER_IMG_VISIBLE @"SetFormalUserImgVisible"
+
+#define	USEDEMODATA										0
+#define WangWangVersion									"iphone_0.0.1"
+
+#define ALIBABA_CHINA_WEB_SITE              @"http://m.1688.com/touch/member/appRegister.htm"
+#define NOTIFICATION_CANCELLOGIN            @"AlibabaCNCancelLogin"
+#define NOTIFICATION_LOGOUT                 @"AlibabaCNLogout"
+#define NOTIFICATION_FAV                 @"AlibabaFav"
+#define NOTIFICATION_SEARCH                 @"AlibabaSearch"
+#define NOTIFICATION_MESSAGE_FORWARD_FAV_PRICE @"message_forward_fav_price"
+#define NOTIFICATION_ENTER_WW                 @"AlibabaEnterWW"
+#define NOTIFICATION_HOME                 @"AlibabaHome"
+
+#define NOTIFICATION_HIDETABBAR                 @"hideTabBar"
+#define NOTIFICATION_UNHIDETABBAR                 @"unHideTabBar"
+
+#define NOTIFICATION_BEGINER           @"AlibabaCNBeginerNavigate"
+#define NOTIFICATION_HOME_SELECT           @"AlibabaCNHomeSelect"
+///notification state list
+
+#define NOTIFICATION_IMAGEDOWNLOADED					@"imageDownloaded"
+#define NOTIFICATION_SIGNATUREDOWNLOADED				@"signatureDownloaded"
+#define NOTIFICATION_SIGNATURECHANGED                   @"signatureChanged"
+
+#define NOTIFICATION_GETSELFDETAIL                      @"getSelfDetail"
+#define NOTIFICATION_GETUSERDETAIL						@"getUserDetail"
+
+#define NOTIFICATION_DELETECONTACT                      @"deleteContact"
+#define NOTIFICATION_CHANGEGROUP                        @"changeGroup"
+#define NOTIFICATION_ADDBLACK                           @"addBlack"
+#define NOTIFICATION_ADDBLACKUSER                       @"addBlackUser"
+#define NOTIFICATION_DELETEUSERFROMGROUPS               @"deleteUserFromGroups"
+#define NOTIFICATION_CHANGEGROUPFROMGROUPS              @"changeGroupFromGroups"
+#define NOTIFICATION_ADDSTRANGERTOFRIEND                @"addStrangerToFriend"
+
+#define NOTIFICATION_SEARCHFRIENDSRESULT                @"searchFriendsResult"
+#define NOTIFICATION_ADDFRIENDRESULT					@"addFriendResult"
+#define NOTIFICATION_ADDSTRANGER						@"addStranger"
+#define NOTIFICATION_REVMSG								@"revmessage"
+#define NOTIFICATION_COUNTMSG							@"countmessage"
+#define NOTIFICATION_REFRESHSETTINGVIEW					@"refreshSettingView"
+
+#define NOTIFICATION_RECEIVEPICTURE                     @"receivePicture"
+
+#define NOTIFICATION_GROUPLIST                          @"groupList"
+#define NOTIFICATION_CONTACTLIST                        @"contactList"
+#define NOTIFICATION_BLACKLIST                          @"blackList"
+
+#define NOTIFICATION_CONTACTSTATUSLIST                  @"contactStatusList"
+#define NOTIFICATION_CONTACTSTATUSCHANGED               @"contactStatusChanged"
+#define NOTIFICATION_REFRESHINFOMATIONCELL              @"refreshInfomationCell"
+
+#define NOTIFICATION_NEEDAUTHCODE						@"needAuthCode"
+#define NOTIFICATION_CHECKAUTHCODE						@"checkAuthCode"
+
+#define NOTIFICATION_CHANGESELFIGNATURE					@"changeSelfSignature"
+
+#define NOTIFICATION_SENDPICTUREPERCENT                 @"sendPicturePercent"
+#define NOTIFICATION_RECEIVEPICTUREPERCENT              @"receivePicturePercent"
+#define NOTIFICATION_ONPEERCLOSE						@"OnPeerClose"
+
+#define NOTIFICATION_FORCEDISCONNECT					@"forceDisconnect"
+#define NOTIFICATION_NETWORKERROR						@"networkError"
+
+#define NOTIFICATION_LOCATEFRIEND						@"locateFriend"
+#define NOTIFICATION_QUITWANGWANG						@"quitWangWang"
+
+#define NOITFICATION_RECONNECTWW                        @"reconnectwangwang"
+#define NOITFICATION_APPGOBACKGROUND                    @"appGoBackground"
+
+#define NOTIFICATION_CHANGE_HOME                        @"changeHome"
+
+#define NOTIFICATION_ORDER_STATE                        @"orderstate"
+
+///get image
+#define GET_COLOR_IMAGE									@"colorImage"
+#define GET_GRAY_IMAGE									@"grayImage"
+#define GET_UID_IMAGE									@"uid"
+
+//check update in about function
+#define NOTIFICATION_NO_UPDATE_CHECK                    @"NOUPDATECHECK"

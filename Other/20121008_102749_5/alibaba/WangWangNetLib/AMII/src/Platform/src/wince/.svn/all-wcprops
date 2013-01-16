@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/Platform/src/wince
+END
+AMTimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/Platform/src/wince/AMTimer.c
+END
+AMMemoryTable.c
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/Platform/src/wince/AMMemoryTable.c
+END
+AMLog.c
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/Platform/src/wince/AMLog.c
+END
+AMHDev.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/Platform/src/wince/AMHDev.cpp
+END
+AMSocket.c
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/Platform/src/wince/AMSocket.c
+END
+WinceLog.c
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/Platform/src/wince/WinceLog.c
+END
+AMThreadMutex.c
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/Platform/src/wince/AMThreadMutex.c
+END
+AMTime.c
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/Platform/src/wince/AMTime.c
+END
+AMLooper.c
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/Platform/src/wince/AMLooper.c
+END
+AMSocketHelp.c
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/Platform/src/wince/AMSocketHelp.c
+END
+AMLooperMessage.c
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/Platform/src/wince/AMLooperMessage.c
+END
+AMString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/Platform/src/wince/AMString.cpp
+END
+AMThread.c
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/Platform/src/wince/AMThread.c
+END
+AMMemory.c
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/Platform/src/wince/AMMemory.c
+END
+AMFS.c
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/Platform/src/wince/AMFS.c
+END
+AMThreadCond.c
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/Platform/src/wince/AMThreadCond.c
+END
+AMHttp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/Platform/src/wince/AMHttp.cpp
+END

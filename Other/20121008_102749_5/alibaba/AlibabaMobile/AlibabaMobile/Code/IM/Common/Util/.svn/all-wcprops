@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/IM/Common/Util
+END
+CallBackTool.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/IM/Common/Util/CallBackTool.h
+END
+NoticationItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/IM/Common/Util/NoticationItem.m
+END
+SignatureDownloadOperation.mm
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/IM/Common/Util/SignatureDownloadOperation.mm
+END
+CSimpleWangWangNetCallback.mm
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/IM/Common/Util/CSimpleWangWangNetCallback.mm
+END
+StringConversionUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/IM/Common/Util/StringConversionUtils.h
+END
+InternetDataTool.mm
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/IM/Common/Util/InternetDataTool.mm
+END
+SoundEffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/IM/Common/Util/SoundEffect.h
+END
+pinyin.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/IM/Common/Util/pinyin.h
+END
+AESCrypto.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/IM/Common/Util/AESCrypto.h
+END
+SoundEffect.m
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/IM/Common/Util/SoundEffect.m
+END
+SignatureDownloadOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/IM/Common/Util/SignatureDownloadOperation.h
+END
+CallBackTool.mm
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/IM/Common/Util/CallBackTool.mm
+END
+AESCrypto.m
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/IM/Common/Util/AESCrypto.m
+END
+StringConversionUtils.mm
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/IM/Common/Util/StringConversionUtils.mm
+END
+InternetDataTool.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/IM/Common/Util/InternetDataTool.h
+END
+NoticationItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/IM/Common/Util/NoticationItem.h
+END
+pinyin.mm
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/IM/Common/Util/pinyin.mm
+END

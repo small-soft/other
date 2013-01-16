@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/MessageCenter
+END
+MessageCenterListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/MessageCenter/MessageCenterListViewController.xib
+END
+MessageListCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/MessageCenter/MessageListCell.xib
+END
+MessageTypeListCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/MessageCenter/MessageTypeListCell.xib
+END
+MessageCenterListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/MessageCenter/MessageCenterListViewController.h
+END
+MessageListCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/MessageCenter/MessageListCell.h
+END
+MessageTypeListCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/MessageCenter/MessageTypeListCell.h
+END
+MessageCenterListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/ali_cbu_mobile/!svn/ver/19289/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/MessageCenter/MessageCenterListViewController.m
+END
+MessageListCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/MessageCenter/MessageListCell.m
+END
+MessageTypeListCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/MessageCenter/MessageTypeListCell.m
+END

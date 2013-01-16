@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/Linux/RPM
+END
+make_curl_rpm
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/Linux/RPM/make_curl_rpm
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/Linux/RPM/Makefile.in
+END
+curl-ssl.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/Linux/RPM/curl-ssl.spec.in
+END
+curl.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/Linux/RPM/curl.spec.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/Linux/RPM/Makefile.am
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/Linux/RPM/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/Linux/RPM/README
+END
+curl-ssl.spec
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/Linux/RPM/curl-ssl.spec
+END
+curl.spec
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/Linux/RPM/curl.spec
+END

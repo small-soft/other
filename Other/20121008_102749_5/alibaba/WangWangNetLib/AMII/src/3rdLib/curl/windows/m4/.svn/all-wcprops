@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/m4
+END
+curl-compilers.m4
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/m4/curl-compilers.m4
+END
+ltsugar.m4
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/m4/ltsugar.m4
+END
+curl-override.m4
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/m4/curl-override.m4
+END
+libtool.m4
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/m4/libtool.m4
+END
+curl-reentrant.m4
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/m4/curl-reentrant.m4
+END
+ltversion.m4
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/m4/ltversion.m4
+END
+curl-system.m4
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/m4/curl-system.m4
+END
+lt~obsolete.m4
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/m4/lt~obsolete.m4
+END
+curl-functions.m4
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/m4/curl-functions.m4
+END
+ltoptions.m4
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/m4/ltoptions.m4
+END
+curl-confopts.m4
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/m4/curl-confopts.m4
+END

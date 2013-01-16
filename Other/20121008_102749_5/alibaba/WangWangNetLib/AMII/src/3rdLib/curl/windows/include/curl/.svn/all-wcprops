@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/include/curl
+END
+stdcheaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/include/curl/stdcheaders.h
+END
+typecheck-gcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/include/curl/typecheck-gcc.h
+END
+curlbuild.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/include/curl/curlbuild.h.in
+END
+multi.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/include/curl/multi.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/include/curl/Makefile.in
+END
+mprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/include/curl/mprintf.h
+END
+curlrules.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/include/curl/curlrules.h
+END
+easy.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/include/curl/easy.h
+END
+curlver.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/include/curl/curlver.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/include/curl/Makefile.am
+END
+curlbuild.h.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/include/curl/curlbuild.h.cmake
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/include/curl/types.h
+END
+curl.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/include/curl/curl.h
+END
+curlbuild.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/include/curl/curlbuild.h
+END

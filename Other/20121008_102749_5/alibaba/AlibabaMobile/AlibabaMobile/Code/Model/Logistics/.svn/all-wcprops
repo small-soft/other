@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/Logistics
+END
+AMMyLogisticsOrderRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/Logistics/AMMyLogisticsOrderRequest.h
+END
+AMLogisTraceStep.m
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/Logistics/AMLogisTraceStep.m
+END
+AMCorporation.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/Logistics/AMCorporation.h
+END
+AMMyLogisticsOrderRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/Logistics/AMMyLogisticsOrderRequest.m
+END
+AMCorpsByLetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/Logistics/AMCorpsByLetter.h
+END
+AMMylogisticsOrderResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/Logistics/AMMylogisticsOrderResult.h
+END
+AMMylogisticsOrder.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/Logistics/AMMylogisticsOrder.h
+END
+AMLogisSimpleOrder.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/Logistics/AMLogisSimpleOrder.h
+END
+AMCorporation.m
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/Logistics/AMCorporation.m
+END
+AMCorpsByLetter.m
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/Logistics/AMCorpsByLetter.m
+END
+AMMylogisticsOrderResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/Logistics/AMMylogisticsOrderResult.m
+END
+AMMylogisticsOrder.m
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/Logistics/AMMylogisticsOrder.m
+END
+AMLogisSimpleOrder.m
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/Logistics/AMLogisSimpleOrder.m
+END
+AMLogisTraceStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/Logistics/AMLogisTraceStep.h
+END

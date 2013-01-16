@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/GDI/wince
+END
+AMGraphics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/GDI/wince/AMGraphics.cpp
+END
+AMImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/GDI/wince/AMImage.cpp
+END
+AMGDI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/GDI/wince/AMGDI.cpp
+END
+AMFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/GDI/wince/AMFont.cpp
+END
+AMGDIIn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/GDI/wince/AMGDIIn.cpp
+END
+AMGDIIn.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/GDI/wince/AMGDIIn.h
+END

@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock
+END
+OCClassMockObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCClassMockObject.m
+END
+NSNotificationCenter+OCMAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/NSNotificationCenter+OCMAdditions.h
+END
+OCMockRecorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMockRecorder.h
+END
+OCMExceptionReturnValueProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMExceptionReturnValueProvider.h
+END
+NSNotificationCenter+OCMAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/NSNotificationCenter+OCMAdditions.m
+END
+OCMockRecorder.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMockRecorder.m
+END
+OCMock-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMock-Info.plist
+END
+OCMIndirectReturnValueProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMIndirectReturnValueProvider.h
+END
+OCMArg.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMArg.h
+END
+OCMExceptionReturnValueProvider.m
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMExceptionReturnValueProvider.m
+END
+OCObserverMockObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCObserverMockObject.h
+END
+OCMock.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMock.h
+END
+NSMethodSignature+OCMAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/NSMethodSignature+OCMAdditions.h
+END
+OCMBlockCaller.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMBlockCaller.h
+END
+OCMIndirectReturnValueProvider.m
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMIndirectReturnValueProvider.m
+END
+OCMArg.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMArg.m
+END
+OCPartialMockRecorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCPartialMockRecorder.h
+END
+OCObserverMockObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCObserverMockObject.m
+END
+NSMethodSignature+OCMAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/NSMethodSignature+OCMAdditions.m
+END
+OCMBlockCaller.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMBlockCaller.m
+END
+OCPartialMockRecorder.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCPartialMockRecorder.m
+END
+OCMPassByRefSetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMPassByRefSetter.h
+END
+OCProtocolMockObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCProtocolMockObject.h
+END
+OCMRealObjectForwarder.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMRealObjectForwarder.h
+END
+OCMReturnValueProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMReturnValueProvider.h
+END
+OCMock-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMock-Prefix.pch
+END
+OCMPassByRefSetter.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMPassByRefSetter.m
+END
+OCProtocolMockObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCProtocolMockObject.m
+END
+OCMRealObjectForwarder.m
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMRealObjectForwarder.m
+END
+OCMReturnValueProvider.m
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMReturnValueProvider.m
+END
+OCMockObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMockObject.h
+END
+OCMockObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMockObject.m
+END
+OCMBoxedReturnValueProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMBoxedReturnValueProvider.h
+END
+OCMObserverRecorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMObserverRecorder.h
+END
+OCMBoxedReturnValueProvider.m
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMBoxedReturnValueProvider.m
+END
+OCPartialMockObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCPartialMockObject.h
+END
+OCMObserverRecorder.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMObserverRecorder.m
+END
+OCMNotificationPoster.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMNotificationPoster.h
+END
+NSInvocation+OCMAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/NSInvocation+OCMAdditions.h
+END
+OCMConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMConstraint.h
+END
+OCPartialMockObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCPartialMockObject.m
+END
+OCMNotificationPoster.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMNotificationPoster.m
+END
+NSInvocation+OCMAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/NSInvocation+OCMAdditions.m
+END
+OCClassMockObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCClassMockObject.h
+END
+OCMConstraint.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Vendor/OCMock/OCMock/OCMConstraint.m
+END

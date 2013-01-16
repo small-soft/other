@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/inc/STL
+END
+AMWeakPtr.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/inc/STL/AMWeakPtr.h
+END
+AMSTL.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/inc/STL/AMSTL.h
+END
+AMEnable_shared_from_this.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/inc/STL/AMEnable_shared_from_this.h
+END
+AMSharePtr.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/inc/STL/AMSharePtr.h
+END

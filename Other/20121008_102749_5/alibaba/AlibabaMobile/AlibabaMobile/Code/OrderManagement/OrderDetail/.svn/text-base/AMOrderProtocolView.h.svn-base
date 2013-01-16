@@ -1,0 +1,26 @@
+//
+//  AMOrderProtocolView.h
+//  AlibabaMobile
+//
+//  Created by lei.jul on 12-10-11.
+//  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import "AMOrderDetailResult.h"
+#import "KeyValueObject.h"
+
+@interface AMOrderProtocolView : UITableView <UITableViewDelegate, UITableViewDataSource>
+{
+    UINavigationController * _navigationController;
+}
+
+//@property (nonatomic,assign) NSObject <MemberContactDelegate> *memberContactDelegate;
+//-(id) initWithData:(AMOrderDetailResult *)data withMemberId:(NSString*) memberId;
+
+@property (nonatomic, retain) NSMutableArray * contactArray;
+
+-(void) setNavigationController:(UINavigationController *)controller;
+-(void) setData:(AMOrderDetailResult *)data withMemberId:(NSString*) memberId;
+
+@end

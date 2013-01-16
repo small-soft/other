@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/vms
+END
+ldap.opt
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/vms/ldap.opt
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/vms/Makefile.in
+END
+openssl_ssl_vax.opt
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/vms/openssl_ssl_vax.opt
+END
+curlmsg_vms.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/vms/curlmsg_vms.h
+END
+openssl_ssl_ia64.opt
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/vms/openssl_ssl_ia64.opt
+END
+openssl_alpha.opt
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/vms/openssl_alpha.opt
+END
+curlmsg.sdl
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/vms/curlmsg.sdl
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/vms/readme
+END
+config-vms.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/vms/config-vms.h
+END
+hpssl_alpha.opt
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/vms/hpssl_alpha.opt
+END
+curlmsg.msg
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/vms/curlmsg.msg
+END
+build_vms.com
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/vms/build_vms.com
+END
+curlmsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/vms/curlmsg.h
+END
+openssl_vax.opt
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/vms/openssl_vax.opt
+END
+openssl_ia64.opt
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/vms/openssl_ia64.opt
+END
+hpssl_vax.opt
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/vms/hpssl_vax.opt
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/vms/Makefile.am
+END
+openssl_ssl_alpha.opt
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/vms/openssl_ssl_alpha.opt
+END
+hpssl_ia64.opt
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/vms/hpssl_ia64.opt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/vms/Makefile
+END

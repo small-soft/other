@@ -1,0 +1,20 @@
+//
+//  AliTableViewCellSubTitle.h
+//  AlibabaMobile
+//
+//  Created by alimobile on 12-4-23.
+//  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import "AliTableViewCell.h"
+#import "AliCustomLabel.h"
+@interface AliTableViewCellSubTitle : AliTableViewCell
+@property (retain, nonatomic) IBOutlet AliCustomLabel *title;
+@property (retain, nonatomic) IBOutlet AliCustomLabel *subTitle;
+@property (retain, nonatomic) IBOutlet UIImageView *identifyImage;
+@property (nonatomic)BOOL hideIdentifyIMage;
++(CGFloat)cellHeight;
++(NSString*)cellIdentifer;
++(id)createCell;
+@end

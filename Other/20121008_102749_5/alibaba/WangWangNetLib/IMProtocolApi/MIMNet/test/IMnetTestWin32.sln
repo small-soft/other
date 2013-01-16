@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IMnetTestWin32", "IMnetTestWin32.vcproj", "{91774097-16CE-4A53-833D-B5F7FE53E244}"
+	ProjectSection(ProjectDependencies) = postProject
+		{ED0A155D-05E9-4215-B382-CE59B3D8233D} = {ED0A155D-05E9-4215-B382-CE59B3D8233D}
+		{02A519F9-563C-4B2B-AE36-D275280E2EB9} = {02A519F9-563C-4B2B-AE36-D275280E2EB9}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IMProtocol", "..\src\IMProtocol.vcproj", "{ED0A155D-05E9-4215-B382-CE59B3D8233D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{02A519F9-563C-4B2B-AE36-D275280E2EB9} = {02A519F9-563C-4B2B-AE36-D275280E2EB9}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PacketConnection", "..\..\..\PacketConnection\src\PacketConnection.vcproj", "{02A519F9-563C-4B2B-AE36-D275280E2EB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91774097-16CE-4A53-833D-B5F7FE53E244}.Debug|Win32.ActiveCfg = Debug|Win32
+		{91774097-16CE-4A53-833D-B5F7FE53E244}.Debug|Win32.Build.0 = Debug|Win32
+		{91774097-16CE-4A53-833D-B5F7FE53E244}.Release|Win32.ActiveCfg = Release|Win32
+		{91774097-16CE-4A53-833D-B5F7FE53E244}.Release|Win32.Build.0 = Release|Win32
+		{ED0A155D-05E9-4215-B382-CE59B3D8233D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ED0A155D-05E9-4215-B382-CE59B3D8233D}.Debug|Win32.Build.0 = Debug|Win32
+		{ED0A155D-05E9-4215-B382-CE59B3D8233D}.Release|Win32.ActiveCfg = Release|Win32
+		{ED0A155D-05E9-4215-B382-CE59B3D8233D}.Release|Win32.Build.0 = Release|Win32
+		{02A519F9-563C-4B2B-AE36-D275280E2EB9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{02A519F9-563C-4B2B-AE36-D275280E2EB9}.Debug|Win32.Build.0 = Debug|Win32
+		{02A519F9-563C-4B2B-AE36-D275280E2EB9}.Release|Win32.ActiveCfg = Release|Win32
+		{02A519F9-563C-4B2B-AE36-D275280E2EB9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

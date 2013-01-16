@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData
+END
+NSManagedObject+ActiveRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/NSManagedObject+ActiveRecord.h
+END
+RKManagedObjectSearchEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKManagedObjectSearchEngine.h
+END
+RKManagedObjectMapping.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKManagedObjectMapping.h
+END
+RKFetchRequestManagedObjectCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKFetchRequestManagedObjectCache.m
+END
+NSEntityDescription+RKAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/NSEntityDescription+RKAdditions.m
+END
+NSManagedObject+ActiveRecord.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/NSManagedObject+ActiveRecord.m
+END
+NSManagedObjectContext+RKAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/NSManagedObjectContext+RKAdditions.h
+END
+RKManagedObjectThreadSafeInvocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKManagedObjectThreadSafeInvocation.h
+END
+RKManagedObjectSearchEngine.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKManagedObjectSearchEngine.m
+END
+RKManagedObjectMapping.m
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKManagedObjectMapping.m
+END
+NSManagedObjectContext+RKAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/NSManagedObjectContext+RKAdditions.m
+END
+RKManagedObjectThreadSafeInvocation.m
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKManagedObjectThreadSafeInvocation.m
+END
+RKSearchWordObserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKSearchWordObserver.h
+END
+RKManagedObjectLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKManagedObjectLoader.h
+END
+RKObjectMappingProvider+CoreData.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKObjectMappingProvider+CoreData.h
+END
+RKSearchWordObserver.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKSearchWordObserver.m
+END
+RKManagedObjectLoader.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKManagedObjectLoader.m
+END
+RKObjectMappingProvider+CoreData.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKObjectMappingProvider+CoreData.m
+END
+RKInMemoryEntityCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKInMemoryEntityCache.h
+END
+RKObjectPropertyInspector+CoreData.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKObjectPropertyInspector+CoreData.h
+END
+RKManagedObjectMappingCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKManagedObjectMappingCache.h
+END
+RKInMemoryEntityCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKInMemoryEntityCache.m
+END
+RKObjectPropertyInspector+CoreData.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKObjectPropertyInspector+CoreData.m
+END
+RKInMemoryManagedObjectCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKInMemoryManagedObjectCache.h
+END
+RKInMemoryManagedObjectCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKInMemoryManagedObjectCache.m
+END
+RKSearchableManagedObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKSearchableManagedObject.h
+END
+NSManagedObject+RKAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/NSManagedObject+RKAdditions.h
+END
+RKManagedObjectStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKManagedObjectStore.h
+END
+RKSearchWord.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKSearchWord.h
+END
+RKSearchableManagedObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKSearchableManagedObject.m
+END
+NSManagedObject+RKAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/NSManagedObject+RKAdditions.m
+END
+RKManagedObjectStore.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKManagedObjectStore.m
+END
+RKSearchWord.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKSearchWord.m
+END
+RKManagedObjectSeeder.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKManagedObjectSeeder.h
+END
+RKManagedObjectSeeder.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKManagedObjectSeeder.m
+END
+RKManagedObjectMappingOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKManagedObjectMappingOperation.h
+END
+RKManagedObjectMappingOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKManagedObjectMappingOperation.m
+END
+CoreData.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/CoreData.h
+END
+RKFetchRequestManagedObjectCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/RKFetchRequestManagedObjectCache.h
+END
+NSEntityDescription+RKAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/CoreData/NSEntityDescription+RKAdditions.h
+END

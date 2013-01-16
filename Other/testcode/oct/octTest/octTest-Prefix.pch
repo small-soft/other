@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'octTest' target in the 'octTest' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

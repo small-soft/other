@@ -1,0 +1,126 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* iphone.scanbar */ = {
+		activeExec = 0;
+		executables = (
+			6BF0066212C715BA00F52AE6 /* iphone.scanbar */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* iphone_scanbarViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 490}}";
+			sepNavSelRange = "{248, 31}";
+			sepNavVisRange = "{0, 286}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* iphone_scanbarViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 490}}";
+			sepNavSelRange = "{434, 0}";
+			sepNavVisRange = "{0, 440}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6BF0066212C715BA00F52AE6 /* iphone.scanbar */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iphone.scanbar */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* iphone.scanbar */,
+		);
+		codeSenseManager = 6BF0067012C715D200F52AE6 /* Code sense */;
+		executables = (
+			6BF0066212C715BA00F52AE6 /* iphone.scanbar */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315037114;
+			PBXWorkspaceStateSaveDate = 315037114;
+		};
+		perUserProjectItems = {
+			6BF0066812C715D200F52AE6 /* PBXBookmark */ = 6BF0066812C715D200F52AE6 /* PBXBookmark */;
+			6BF0066912C715D200F52AE6 /* PlistBookmark */ = 6BF0066912C715D200F52AE6 /* PlistBookmark */;
+		};
+		sourceControlManager = 6BF0066F12C715D200F52AE6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6BF0066212C715BA00F52AE6 /* iphone.scanbar */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iphone.scanbar;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6BF0066812C715D200F52AE6 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8D1107310486CEB800E47090 /* iphone_scanbar-Info.plist */;
+	};
+	6BF0066912C715D200F52AE6 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* iphone_scanbar-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/vsp/iosworkspace/iosiphoneeasymorse/iphone.scanbar/iphone_scanbar-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	6BF0066F12C715D200F52AE6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6BF0067012C715D200F52AE6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

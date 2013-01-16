@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IAIMServiceGrp/src
+END
+AIMAuthModule.c
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IAIMServiceGrp/src/AIMAuthModule.c
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IAIMServiceGrp/src/stdafx.h
+END
+IAIMSignature.c
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IAIMServiceGrp/src/IAIMSignature.c
+END
+IAContact.c
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IAIMServiceGrp/src/IAContact.c
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IAIMServiceGrp/src/Android.mk
+END
+IAccount.c
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IAIMServiceGrp/src/IAccount.c
+END
+IAGroup.c
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IAIMServiceGrp/src/IAGroup.c
+END
+IAIMessage.c
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IAIMServiceGrp/src/IAIMessage.c
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IAIMServiceGrp/src/targetver.h
+END
+IASessionModel.c
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IAIMServiceGrp/src/IASessionModel.c
+END
+AIMTrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IAIMServiceGrp/src/AIMTrans.c
+END
+IAIM.c
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IAIMServiceGrp/src/IAIM.c
+END
+IAIMServiceGrp.vcproj.HZ.mervin.lix.user
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IAIMServiceGrp/src/IAIMServiceGrp.vcproj.HZ.mervin.lix.user
+END
+AMImUtil.c
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IAIMServiceGrp/src/AMImUtil.c
+END
+AIMTransModule.c
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IAIMServiceGrp/src/AIMTransModule.c
+END
+IAContactModel.c
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IAIMServiceGrp/src/IAContactModel.c
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IAIMServiceGrp/src/stdafx.cpp
+END
+IAIMServiceGrp.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IAIMServiceGrp/src/IAIMServiceGrp.vcproj
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IAIMServiceGrp/src/ReadMe.txt
+END
+AMAccountModel.c
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IAIMServiceGrp/src/AMAccountModel.c
+END
+IASession.c
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IAIMServiceGrp/src/IASession.c
+END

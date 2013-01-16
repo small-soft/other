@@ -1,0 +1,584 @@
+Toct
+v5
+r1
+cCheck dependencies
+cProcessPCH /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-bxojlxxrbzndqdajijtgdfqcahjm/oct-Prefix.pch.pth oct/oct-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/main.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/Car.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Car.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/Shape.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Shape.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/Rect.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/Circle.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/Tire.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Tire.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/Engine.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Engine.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/Slant6.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Slant6.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/AllWeatherRadial.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/AllWeatherRadial.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/TestSample.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/TestSample.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug/oct" normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/NSException_SenTestFailure.h
+c000000004F6297D80000000000000E25
+t1331861464
+s3621
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenInterfaceTestCase.h
+c000000004F6297D80000000000000701
+t1331861464
+s1793
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTest.h
+c000000004F6297D8000000000000084C
+t1331861464
+s2124
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase.h
+c000000004F6297D800000000000019FB
+t1331861464
+s6651
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCaseRun.h
+c000000004F6297D80000000000000875
+t1331861464
+s2165
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase_Macros.h
+c000000004F6297D80000000000007F41
+t1331861464
+s32577
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDefines.h
+c000000004F6297D80000000000000947
+t1331861464
+s2375
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDistributedNotifier.h
+c000000004F6297D80000000000000800
+t1331861464
+s2048
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestLog.h
+c000000004F6297D8000000000000079D
+t1331861464
+s1949
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestObserver.h
+c000000004F6297D80000000000000A6C
+t1331861464
+s2668
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestProbe.h
+c000000004F6297D80000000000000AD1
+t1331861464
+s2769
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestRun.h
+c000000004F6297D80000000000000A79
+t1331861464
+s2681
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuite.h
+c000000004F6297D80000000000000CCF
+t1331861464
+s3279
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuiteRun.h
+c000000004F6297D800000000000007E1
+t1331861464
+s2017
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
+c000000004F6297D800000000000008A5
+t1331861464
+s2213
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingUtilities.h
+c000000004F6297D80000000000000C37
+t1331861464
+s3127
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/SenTestingKit
+c000000004F6297D8000000000002DE40
+t1331861464
+s187968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
+c000000004FA373B000000000000000EE
+t1336112048
+s238
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F62982600000000000ADFFC
+t1331861542
+s712700
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug/oct
+t1345703878
+s27452
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/AllWeatherRadial.o
+t1345687747
+s3356
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Car.o
+t1345687747
+s12176
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Circle.o
+t1345687747
+s8552
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Engine.o
+t1345687747
+s3260
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Rect.o
+t1345687747
+s10128
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Shape.o
+t1345687747
+s9356
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Slant6.o
+t1345687747
+s3296
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/StringTest.o
+t1345687747
+s6020
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/TestSample.o
+t1345703877
+s11824
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/TestString.o
+t1345687747
+s8444
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Tire.o
+t1345687747
+s3244
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/main.o
+t1345687747
+s2968
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/oct.LinkFileList
+c000000005035CFC50000000000000626
+t1345703877
+s1574
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/AllWeatherRadial.h
+c00000000503346B800000000000000D2
+t1345537720
+s210
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/AllWeatherRadial.m
+c00000000503346B800000000000000DC
+t1345537720
+s220
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Car.h
+c00000000503341D70000000000000173
+t1345536471
+s371
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Car.m
+c00000000503355E800000000000003F5
+t1345541608
+s1013
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.h
+c000000005033397F0000000000000144
+t1345534335
+s324
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m
+c0000000050333BC000000000000001EB
+t1345534912
+s491
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Engine.h
+c0000000050333D3F00000000000000D3
+t1345535295
+s211
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Engine.m
+c000000005033454B00000000000000BF
+t1345537355
+s191
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.h
+c000000005033387100000000000001AD
+t1345534065
+s429
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m
+c00000000503358FC0000000000000274
+t1345542396
+s628
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Shape.h
+c00000000503338910000000000000187
+t1345534097
+s391
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Shape.m
+c00000000503343ED00000000000001DC
+t1345537005
+s476
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Slant6.h
+c000000005033460700000000000000C2
+t1345537543
+s194
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Slant6.m
+c000000005033460700000000000000BE
+t1345537543
+s190
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/StringTest.h
+c0000000050358B5B00000000000000DB
+t1345686363
+s219
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/StringTest.m
+c0000000050358C5B000000000000019E
+t1345686619
+s414
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/TestSample.h
+c000000005035CF1500000000000000E4
+t1345703701
+s228
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/TestSample.m
+c000000005035CFC200000000000002B3
+t1345703874
+s691
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/TestString.h
+c000000005035901500000000000000ED
+t1345687573
+s237
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/TestString.m
+c00000000503590BF0000000000000136
+t1345687743
+s310
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Tire.h
+c0000000050333CFA00000000000000CF
+t1345535226
+s207
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Tire.m
+c000000005033455400000000000000C0
+t1345537364
+s192
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/main.m
+c0000000050358CAA0000000000000AEF
+t1345686698
+s2799
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/oct-Prefix.pch
+c00000000503321630000000000000093
+t1345528163
+s147
+
+N/var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-bxojlxxrbzndqdajijtgdfqcahjm/oct-Prefix.pch.pth
+t1345687747
+s8443756
+
+N/var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-cawvblqeamviawevkkkpadiolxke/oct-Prefix.pch.pth
+t1345528455
+s8443756
+
+CBuild AST from "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/AllWeatherRadial.m"
+r0
+
+CBuild AST from "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Car.m"
+r0
+
+CBuild AST from "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m"
+r0
+
+CBuild AST from "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Engine.m"
+r0
+
+CBuild AST from "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m"
+r0
+
+CBuild AST from "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Shape.m"
+r0
+
+CBuild AST from "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Slant6.m"
+r0
+
+CBuild AST from "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/StringTest.m"
+r0
+
+CBuild AST from "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/TestSample.m"
+r0
+
+CBuild AST from "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/TestString.m"
+r0
+
+CBuild AST from "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Tire.m"
+r0
+
+CBuild AST from "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies153cb16e70ebb541^6005b86e70ebb541^---0#1#0#--18"Check dependencies36"B1FEFF9F-D7C3-40C8-8AE0-E9FE6C628A45-
+
+CCompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/AllWeatherRadial.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/AllWeatherRadial.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s367380547.926048
+e367380547.965845
+r1
+xCompileC
+xbuild/oct.build/Debug/oct.build/Objects-normal/x86_64/AllWeatherRadial.o
+x/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/AllWeatherRadial.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compile /Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/AllWeatherRadial.mef57ed43c8e5b541^8508f843c8e5b541^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/AllWeatherRadial.m0000000000000000^3456"CompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/AllWeatherRadial.o oct/AllWeatherRadial.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-generated-files.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-own-target-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-all-target-headers.hmap" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-project-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug/include" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources/x86_64" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources" "-F/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug" -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -include /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-bxojlxxrbzndqdajijtgdfqcahjm/oct-Prefix.pch -MMD -MT dependencies -MF "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/AllWeatherRadial.d" --serialize-diagnostics "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/AllWeatherRadial.dia" -c "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/AllWeatherRadial.m" -o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/AllWeatherRadial.o"36"33518CBC-D198-4D27-B032-C4BC773645B5-
+
+CCompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/Car.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Car.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s367380547.673628
+e367380547.872625
+r1
+xCompileC
+xbuild/oct.build/Debug/oct.build/Objects-normal/x86_64/Car.o
+x/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Car.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Car.m2a91ac43c8e5b541^c363df43c8e5b541^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Car.m0000000000000000^3378"CompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/Car.o oct/Car.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-generated-files.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-own-target-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-all-target-headers.hmap" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-project-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug/include" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources/x86_64" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources" "-F/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug" -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -include /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-bxojlxxrbzndqdajijtgdfqcahjm/oct-Prefix.pch -MMD -MT dependencies -MF "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Car.d" --serialize-diagnostics "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Car.dia" -c "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Car.m" -o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Car.o"36"2702AA5C-1863-466F-8039-1B533EBA2139-
+
+CCompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/Circle.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s367380547.873295
+e367380547.926162
+r1
+xCompileC
+xbuild/oct.build/Debug/oct.build/Objects-normal/x86_64/Circle.o
+x/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m:23:32: warning: conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long') [-Wformat]
+o    NSLog(@"draw a circle in (%d,%d) and r = %d",self.x,self.y,self.r);
+o                              ~^                 ~~~~~~
+o                              %ld
+o/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m:23:35: warning: conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long') [-Wformat]
+o    NSLog(@"draw a circle in (%d,%d) and r = %d",self.x,self.y,self.r);
+o                                 ~^                     ~~~~~~
+o                                 %ld
+o/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m:23:47: warning: conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long') [-Wformat]
+o    NSLog(@"draw a circle in (%d,%d) and r = %d",self.x,self.y,self.r);
+o                                             ~^                ~~~~~~
+o                                             %ld
+o3 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m84bbdf43c8e5b541^f817ed43c8e5b541^-1198"/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m:23:32: warning: conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long') [-Wformat]    NSLog(@"draw a circle in (%d,%d) and r = %d",self.x,self.y,self.r);                              ~^                 ~~~~~~                              %ld/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m:23:35: warning: conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long') [-Wformat]    NSLog(@"draw a circle in (%d,%d) and r = %d",self.x,self.y,self.r);                                 ~^                     ~~~~~~                                 %ld/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m:23:47: warning: conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long') [-Wformat]    NSLog(@"draw a circle in (%d,%d) and r = %d",self.x,self.y,self.r);                                             ~^                ~~~~~~                                             %ld3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@82"Conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long')-367380547#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@124"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m0000000000000000^22#31#22#31#434#0#19"Format String Issue3(3@124"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m0000000000000000^22#49#22#55#452#5#3@124"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m0000000000000000^22#30#22#32#433#2#3@124"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m0000000000000000^22#30#22#32#433#2#-2@82"Conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long')-367380547#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@124"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m0000000000000000^22#34#22#34#437#0#19"Format String Issue3(3@124"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m0000000000000000^22#56#22#62#459#5#3@124"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m0000000000000000^22#33#22#35#436#2#3@124"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m0000000000000000^22#33#22#35#436#2#-2@82"Conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long')-367380547#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@124"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m0000000000000000^22#46#22#46#449#0#19"Format String Issue3(3@124"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m0000000000000000^22#63#22#69#466#5#3@124"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m0000000000000000^22#45#22#47#448#2#3@124"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m0000000000000000^22#45#22#47#448#2#-0#0#0#-19%DVTDocumentLocation4@124"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m0000000000000000^3396"CompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/Circle.o oct/Circle.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-generated-files.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-own-target-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-all-target-headers.hmap" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-project-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug/include" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources/x86_64" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources" "-F/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug" -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -include /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-bxojlxxrbzndqdajijtgdfqcahjm/oct-Prefix.pch -MMD -MT dependencies -MF "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Circle.d" --serialize-diagnostics "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Circle.dia" -c "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Circle.m" -o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Circle.o"36"80FE966D-5190-4672-87D0-A791B802A9B1-
+
+CCompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/Engine.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Engine.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s367380547.875054
+e367380547.927443
+r1
+xCompileC
+xbuild/oct.build/Debug/oct.build/Objects-normal/x86_64/Engine.o
+x/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Engine.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Engine.mc025e043c8e5b541^d76ced43c8e5b541^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Engine.m0000000000000000^3396"CompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/Engine.o oct/Engine.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-generated-files.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-own-target-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-all-target-headers.hmap" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-project-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug/include" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources/x86_64" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources" "-F/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug" -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -include /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-bxojlxxrbzndqdajijtgdfqcahjm/oct-Prefix.pch -MMD -MT dependencies -MF "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Engine.d" --serialize-diagnostics "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Engine.dia" -c "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Engine.m" -o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Engine.o"36"24E8755D-1DE0-4D10-AB4A-BFAD94239313-
+
+CCompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/Rect.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s367380547.674147
+e367380547.874260
+r1
+xCompileC
+xbuild/oct.build/Debug/oct.build/Objects-normal/x86_64/Rect.o
+x/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m:16:30: warning: conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long') [-Wformat]
+o    NSLog(@"draw a rect in (%d,%d) and width=%d , height = %d",self.x,self.y,self.width,self.height);
+o                            ~^                                 ~~~~~~
+o                            %ld
+o/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m:16:33: warning: conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long') [-Wformat]
+o    NSLog(@"draw a rect in (%d,%d) and width=%d , height = %d",self.x,self.y,self.width,self.height);
+o                               ~^                                     ~~~~~~
+o                               %ld
+o/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m:16:47: warning: conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long') [-Wformat]
+o    NSLog(@"draw a rect in (%d,%d) and width=%d , height = %d",self.x,self.y,self.width,self.height);
+o                                             ~^                              ~~~~~~~~~~
+o                                             %ld
+o/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m:16:61: warning: conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long') [-Wformat]
+o    NSLog(@"draw a rect in (%d,%d) and width=%d , height = %d",self.x,self.y,self.width,self.height);
+o                                                           ~^                           ~~~~~~~~~~~
+o                                                           %ld
+o4 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m46b5ac43c8e5b541^a7cedf43c8e5b541^-1804"/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m:16:30: warning: conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long') [-Wformat]    NSLog(@"draw a rect in (%d,%d) and width=%d , height = %d",self.x,self.y,self.width,self.height);                            ~^                                 ~~~~~~                            %ld/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m:16:33: warning: conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long') [-Wformat]    NSLog(@"draw a rect in (%d,%d) and width=%d , height = %d",self.x,self.y,self.width,self.height);                               ~^                                     ~~~~~~                               %ld/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m:16:47: warning: conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long') [-Wformat]    NSLog(@"draw a rect in (%d,%d) and width=%d , height = %d",self.x,self.y,self.width,self.height);                                             ~^                              ~~~~~~~~~~                                             %ld/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m:16:61: warning: conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long') [-Wformat]    NSLog(@"draw a rect in (%d,%d) and width=%d , height = %d",self.x,self.y,self.width,self.height);                                                           ~^                           ~~~~~~~~~~~                                                           %ld4 warnings generated.4(36%IDEClangDiagnosticActivityLogMessage2@82"Conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long')-367380547#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@122"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m0000000000000000^15#29#15#29#283#0#19"Format String Issue3(3@122"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m0000000000000000^15#63#15#69#317#5#3@122"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m0000000000000000^15#28#15#30#282#2#3@122"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m0000000000000000^15#28#15#30#282#2#-2@82"Conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long')-367380547#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@122"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m0000000000000000^15#32#15#32#286#0#19"Format String Issue3(3@122"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m0000000000000000^15#70#15#76#324#5#3@122"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m0000000000000000^15#31#15#33#285#2#3@122"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m0000000000000000^15#31#15#33#285#2#-2@82"Conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long')-367380547#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@122"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m0000000000000000^15#46#15#46#300#0#19"Format String Issue3(3@122"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m0000000000000000^15#77#15#87#331#5#3@122"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m0000000000000000^15#45#15#47#299#2#3@122"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m0000000000000000^15#45#15#47#299#2#-2@82"Conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long')-367380547#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@122"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m0000000000000000^15#60#15#60#314#0#19"Format String Issue3(3@122"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m0000000000000000^15#88#15#99#342#5#3@122"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m0000000000000000^15#59#15#61#313#2#3@122"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m0000000000000000^15#59#15#61#313#2#-0#0#0#-19%DVTDocumentLocation4@122"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m0000000000000000^3384"CompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/Rect.o oct/Rect.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-generated-files.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-own-target-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-all-target-headers.hmap" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-project-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug/include" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources/x86_64" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources" "-F/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug" -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -include /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-bxojlxxrbzndqdajijtgdfqcahjm/oct-Prefix.pch -MMD -MT dependencies -MF "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Rect.d" --serialize-diagnostics "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Rect.dia" -c "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Rect.m" -o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Rect.o"36"197434FC-9F3E-4DE0-9076-1F5CE526D58C-
+
+CCompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/Shape.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Shape.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s367380547.673634
+e367380547.873584
+r1
+xCompileC
+xbuild/oct.build/Debug/oct.build/Objects-normal/x86_64/Shape.o
+x/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Shape.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Shape.m:16:31: warning: conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long') [-Wformat]
+o    NSLog(@"draw a shape in (%d,%d)!",self.x,self.y);
+o                             ~^       ~~~~~~
+o                             %ld
+o/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Shape.m:16:34: warning: conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long') [-Wformat]
+o    NSLog(@"draw a shape in (%d,%d)!",self.x,self.y);
+o                                ~^           ~~~~~~
+o                                %ld
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Shape.md89bac43c8e5b541^77badf43c8e5b541^-728"/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Shape.m:16:31: warning: conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long') [-Wformat]    NSLog(@"draw a shape in (%d,%d)!",self.x,self.y);                             ~^       ~~~~~~                             %ld/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Shape.m:16:34: warning: conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long') [-Wformat]    NSLog(@"draw a shape in (%d,%d)!",self.x,self.y);                                ~^           ~~~~~~                                %ld2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@82"Conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long')-367380547#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@123"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Shape.m0000000000000000^15#30#15#30#267#0#19"Format String Issue3(3@123"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Shape.m0000000000000000^15#38#15#44#275#5#3@123"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Shape.m0000000000000000^15#29#15#31#266#2#3@123"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Shape.m0000000000000000^15#29#15#31#266#2#-2@82"Conversion specifies type 'int' but the argument has type 'NSInteger' (aka 'long')-367380547#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@123"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Shape.m0000000000000000^15#33#15#33#270#0#19"Format String Issue3(3@123"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Shape.m0000000000000000^15#45#15#51#282#5#3@123"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Shape.m0000000000000000^15#32#15#34#269#2#3@123"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Shape.m0000000000000000^15#32#15#34#269#2#-0#0#0#-19%DVTDocumentLocation4@123"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Shape.m0000000000000000^3390"CompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/Shape.o oct/Shape.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-generated-files.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-own-target-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-all-target-headers.hmap" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-project-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug/include" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources/x86_64" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources" "-F/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug" -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -include /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-bxojlxxrbzndqdajijtgdfqcahjm/oct-Prefix.pch -MMD -MT dependencies -MF "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Shape.d" --serialize-diagnostics "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Shape.dia" -c "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Shape.m" -o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Shape.o"36"B96B8BF3-9111-4773-B277-23D1F3FA6FD1-
+
+CCompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/Slant6.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Slant6.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s367380547.875053
+e367380547.924722
+r1
+xCompileC
+xbuild/oct.build/Debug/oct.build/Objects-normal/x86_64/Slant6.o
+x/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Slant6.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Slant6.me42ce043c8e5b541^56b9ec43c8e5b541^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Slant6.m0000000000000000^3396"CompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/Slant6.o oct/Slant6.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-generated-files.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-own-target-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-all-target-headers.hmap" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-project-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug/include" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources/x86_64" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources" "-F/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug" -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -include /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-bxojlxxrbzndqdajijtgdfqcahjm/oct-Prefix.pch -MMD -MT dependencies -MF "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Slant6.d" --serialize-diagnostics "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Slant6.dia" -c "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Slant6.m" -o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Slant6.o"36"879B0D13-0B29-40FA-89BB-1FE3D359210E-
+
+CCompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/StringTest.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/StringTest.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s367380547.926409
+e367380547.981185
+r1
+xCompileC
+xbuild/oct.build/Debug/oct.build/Objects-normal/x86_64/StringTest.o
+x/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/StringTest.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/StringTest.md751ed43c8e5b541^07411344c8e5b541^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/StringTest.m0000000000000000^3420"CompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/StringTest.o oct/StringTest.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-generated-files.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-own-target-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-all-target-headers.hmap" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-project-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug/include" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources/x86_64" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources" "-F/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug" -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -include /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-bxojlxxrbzndqdajijtgdfqcahjm/oct-Prefix.pch -MMD -MT dependencies -MF "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/StringTest.d" --serialize-diagnostics "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/StringTest.dia" -c "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/StringTest.m" -o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/StringTest.o"36"F53A2041-BEED-4D70-B1A0-2A29A87ECFE8-
+
+CCompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/TestSample.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/TestSample.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s367396677.682349
+e367396677.959220
+r1
+xCompileC
+xbuild/oct.build/Debug/oct.build/Objects-normal/x86_64/TestSample.o
+x/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/TestSample.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/TestSample.m1cd0ae4507e6b541^fa7ef64507e6b541^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/TestSample.m0000000000000000^3420"CompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/TestSample.o oct/TestSample.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-generated-files.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-own-target-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-all-target-headers.hmap" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-project-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug/include" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources/x86_64" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources" "-F/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug" -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -include /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-bxojlxxrbzndqdajijtgdfqcahjm/oct-Prefix.pch -MMD -MT dependencies -MF "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/TestSample.d" --serialize-diagnostics "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/TestSample.dia" -c "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/TestSample.m" -o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/TestSample.o"36"3C662275-719F-4286-A005-D004DFAB76A9-
+
+CCompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/TestString.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/TestString.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s367380547.927472
+e367380547.987333
+r1
+xCompileC
+xbuild/oct.build/Debug/oct.build/Objects-normal/x86_64/TestString.o
+x/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/TestString.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/TestString.m:14:15: warning: unused variable 's1' [-Wunused-variable]
+o    NSString *s1 = @"1234";
+o              ^
+o/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/TestString.m:15:15: warning: unused variable 's2' [-Wunused-variable]
+o    NSString *s2 = @"1234";
+o              ^
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/TestString.mb58bed43c8e5b541^454a1344c8e5b541^-446"/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/TestString.m:14:15: warning: unused variable 's1' [-Wunused-variable]    NSString *s1 = @"1234";              ^/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/TestString.m:15:15: warning: unused variable 's2' [-Wunused-variable]    NSString *s2 = @"1234";              ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@20"Unused variable 's1'-367380547#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@128"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/TestString.m0000000000000000^13#14#13#14#232#0#19"Unused Entity Issue--2@20"Unused variable 's2'-367380547#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@128"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/TestString.m0000000000000000^14#14#14#14#260#0#19"Unused Entity Issue--0#0#0#-19%DVTDocumentLocation4@128"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/TestString.m0000000000000000^3420"CompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/TestString.o oct/TestString.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-generated-files.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-own-target-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-all-target-headers.hmap" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-project-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug/include" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources/x86_64" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources" "-F/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug" -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -include /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-bxojlxxrbzndqdajijtgdfqcahjm/oct-Prefix.pch -MMD -MT dependencies -MF "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/TestString.d" --serialize-diagnostics "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/TestString.dia" -c "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/TestString.m" -o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/TestString.o"36"A35576DD-AC63-4A3E-A392-E61B5C8B0FB0-
+
+CCompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/Tire.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Tire.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s367380547.873362
+e367380547.925668
+r1
+xCompileC
+xbuild/oct.build/Debug/oct.build/Objects-normal/x86_64/Tire.o
+x/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Tire.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Tire.me8bbdf43c8e5b541^e604ed43c8e5b541^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Tire.m0000000000000000^3384"CompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/Tire.o oct/Tire.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-generated-files.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-own-target-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-all-target-headers.hmap" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-project-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug/include" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources/x86_64" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources" "-F/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug" -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -include /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-bxojlxxrbzndqdajijtgdfqcahjm/oct-Prefix.pch -MMD -MT dependencies -MF "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Tire.d" --serialize-diagnostics "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Tire.dia" -c "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/Tire.m" -o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/Tire.o"36"63712AD4-59D9-4C74-8875-EB87BE25D186-
+
+CCompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/main.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s367380547.673632
+e367380547.872071
+r1
+xCompileC
+xbuild/oct.build/Debug/oct.build/Objects-normal/x86_64/main.o
+x/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/main.ma69bac43c8e5b541^213fdf43c8e5b541^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/main.m0000000000000000^3384"CompileC build/oct.build/Debug/oct.build/Objects-normal/x86_64/main.o oct/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-generated-files.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-own-target-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-all-target-headers.hmap" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-project-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug/include" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources/x86_64" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources" "-F/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug" -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -include /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-bxojlxxrbzndqdajijtgdfqcahjm/oct-Prefix.pch -MMD -MT dependencies -MF "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/main.d" --serialize-diagnostics "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/main.dia" -c "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/main.m" -o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/main.o"36"71011C1B-EFC3-4556-BE65-CAACC6A92CF8-
+
+CLd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug/oct" normal x86_64
+s367396677.965807
+e367396678.943331
+r1
+xLd
+x/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug/oct
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Link /Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug/oct4452f74507e6b541^e17df14607e6b541^---0#0#0#--1045"Ld build/Debug/oct normal x86_64    cd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct"    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk "-L/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug" "-F/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug" -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -filelist "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/Objects-normal/x86_64/oct.LinkFileList" -mmacosx-version-min=10.7 -framework SenTestingKit -framework Foundation -o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug/oct"36"B4E90EC3-594D-4ADA-A9B5-7D3F9D097BE4-
+
+CProcessPCH /Users/mardinpartytime/Library/Developer/Xcode/DerivedData/Alibaba-dfgqcxxxkdezpbfiozfqvrgvgmcq/Index/PrecompiledHeaders/oct-Prefix-adwxhqwptkjvhwfdaxwncsnajxme_ast/oct-Prefix.pch.pth oct/oct-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/mardinpartytime/Library/Developer/Xcode/DerivedData/oct-afxkcmlxdhaymthergoagskenzjo/Index/PrecompiledHeaders/oct-Prefix-adwxhqwptkjvhwfdaxwncsnajxme_ast/oct-Prefix.pch.pth oct/oct-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/mardinpartytime/Library/Developer/Xcode/DerivedData/oct-afxkcmlxdhaymthergoagskenzjo/Index/PrecompiledHeaders/oct-Prefix-annznkmxmibpwgfliwbaqribacwq_ast/oct-Prefix.pch.pth oct/oct-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-bxojlxxrbzndqdajijtgdfqcahjm/oct-Prefix.pch.pth oct/oct-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s367380546.757647
+e367380547.666563
+r1
+xProcessPCH
+x/var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-bxojlxxrbzndqdajijtgdfqcahjm/oct-Prefix.pch.pth
+xoct/oct-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection29"Precompile oct/oct-Prefix.pch4012c242c8e5b541^d3a2aa43c8e5b541^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/oct-Prefix.pch0000000000000000^3327"ProcessPCH /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-bxojlxxrbzndqdajijtgdfqcahjm/oct-Prefix.pch.pth oct/oct-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-generated-files.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-own-target-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-all-target-headers.hmap" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-project-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug/include" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources/x86_64" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources" "-F/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug" -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks --serialize-diagnostics /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-bxojlxxrbzndqdajijtgdfqcahjm/oct-Prefix.pch.dia -c "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/oct-Prefix.pch" -o /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-bxojlxxrbzndqdajijtgdfqcahjm/oct-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-bxojlxxrbzndqdajijtgdfqcahjm/oct-Prefix.pch.d36"16C7AEA3-7B98-4DC2-9DB9-C2CE046DC005-
+
+CProcessPCH /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-cawvblqeamviawevkkkpadiolxke/oct-Prefix.pch.pth oct/oct-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s367221255.088145
+e367221255.807940
+r1
+xProcessPCH
+x/var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-cawvblqeamviawevkkkpadiolxke/oct-Prefix.pch.pth
+xoct/oct-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection29"Precompile oct/oct-Prefix.pch64ea16075ae3b541^6fd4ce075ae3b541^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/oct-Prefix.pch0000000000000000^3263"ProcessPCH /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-cawvblqeamviawevkkkpadiolxke/oct-Prefix.pch.pth oct/oct-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-generated-files.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-own-target-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-all-target-headers.hmap" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/oct-project-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug/include" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources/x86_64" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/oct.build/Debug/oct.build/DerivedSources" "-F/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/build/Debug" --serialize-diagnostics /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-cawvblqeamviawevkkkpadiolxke/oct-Prefix.pch.dia -c "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/oct/oct-Prefix.pch" -o /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-cawvblqeamviawevkkkpadiolxke/oct-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/oct-Prefix-cawvblqeamviawevkkkpadiolxke/oct-Prefix.pch.d36"DAE3D8A2-36D5-42CC-A890-EC1F5DCB2977-
+

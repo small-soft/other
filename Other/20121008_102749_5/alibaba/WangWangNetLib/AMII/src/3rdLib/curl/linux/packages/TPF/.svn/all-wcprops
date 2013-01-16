@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/TPF
+END
+maketpf.env_curl
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/TPF/maketpf.env_curl
+END
+maketpf.env_curllib
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/TPF/maketpf.env_curllib
+END
+curl.mak
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/packages/TPF/curl.mak
+END

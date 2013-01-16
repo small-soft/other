@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/CMake
+END
+CheckTypeSize.c.in
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/CMake/CheckTypeSize.c.in
+END
+FindZLIB.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/CMake/FindZLIB.cmake
+END
+CurlCheckCSourceCompiles.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/CMake/CurlCheckCSourceCompiles.cmake
+END
+FindOpenSSL.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/CMake/FindOpenSSL.cmake
+END
+OtherTests.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/CMake/OtherTests.cmake
+END
+CMakeConfigurableFile.in
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/CMake/CMakeConfigurableFile.in
+END
+CheckTypeSize.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/CMake/CheckTypeSize.cmake
+END
+CurlTests.c
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/CMake/CurlTests.c
+END
+Utilities.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/CMake/Utilities.cmake
+END
+CurlCheckCSourceRuns.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/CMake/CurlCheckCSourceRuns.cmake
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Logic/ObjectMapping
+END
+RKDynamicObjectMappingTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Logic/ObjectMapping/RKDynamicObjectMappingTest.m
+END
+RKObjectRouterTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Logic/ObjectMapping/RKObjectRouterTest.m
+END
+RKObjectMappingNextGenTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Logic/ObjectMapping/RKObjectMappingNextGenTest.m
+END
+RKObjectPaginatorTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Logic/ObjectMapping/RKObjectPaginatorTest.m
+END
+RKObjectLoaderTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Logic/ObjectMapping/RKObjectLoaderTest.m
+END
+RKObjectMappingProviderTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Logic/ObjectMapping/RKObjectMappingProviderTest.m
+END
+RKObjectSerializerTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Logic/ObjectMapping/RKObjectSerializerTest.m
+END
+RKObjectManagerTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Logic/ObjectMapping/RKObjectManagerTest.m
+END
+RKObjectMappingResultTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Logic/ObjectMapping/RKObjectMappingResultTest.m
+END
+RKObjectMappingOperationTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Logic/ObjectMapping/RKObjectMappingOperationTest.m
+END
+RKParserRegistryTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Logic/ObjectMapping/RKParserRegistryTest.m
+END

@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search
+END
+AMCompany.m
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMCompany.m
+END
+AMGeographicResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMGeographicResult.m
+END
+AMCompanyBizType.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMCompanyBizType.h
+END
+AMSuggestWord.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMSuggestWord.h
+END
+AMProfileRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMProfileRequest.m
+END
+AMBreadCrumbRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMBreadCrumbRequest.h
+END
+AMCompanyBizType.m
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMCompanyBizType.m
+END
+AMSuggestWord.m
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMSuggestWord.m
+END
+AMHotArea.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMHotArea.h
+END
+AMBreadCrumbRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMBreadCrumbRequest.m
+END
+AMCategoryRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMCategoryRequest.h
+END
+AMOfferPriceType.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMOfferPriceType.h
+END
+AMHotArea.m
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMHotArea.m
+END
+AMSuggestRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMSuggestRequest.h
+END
+AMOfferPriceType.m
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMOfferPriceType.m
+END
+AMTrackRecentSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMTrackRecentSearch.h
+END
+AMCategoryRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMCategoryRequest.m
+END
+AMHotAreaRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMHotAreaRequest.h
+END
+AMGeoGraphicInfoRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMGeoGraphicInfoRequest.h
+END
+AMSuggestRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMSuggestRequest.m
+END
+AMCategorySubRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMCategorySubRequest.h
+END
+AMTrackRecentSearch.m
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMTrackRecentSearch.m
+END
+AMOffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMOffer.h
+END
+AMHotAreaRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMHotAreaRequest.m
+END
+AMMemberOfferRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMMemberOfferRequest.h
+END
+AMGeoGraphicInfoRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMGeoGraphicInfoRequest.m
+END
+AMCategorySubRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMCategorySubRequest.m
+END
+AMCompanyResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMCompanyResult.h
+END
+AMSmartNavigationResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMSmartNavigationResult.h
+END
+AMOffer.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMOffer.m
+END
+AMMemberOfferRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMMemberOfferRequest.m
+END
+AMCompanyResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMCompanyResult.m
+END
+AMOfferRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMOfferRequest.h
+END
+AMSmartNavigationResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMSmartNavigationResult.m
+END
+AMCompanyRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMCompanyRequest.h
+END
+AMOfferRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMOfferRequest.m
+END
+AMPriceRange.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMPriceRange.h
+END
+AMSmartNavigationRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMSmartNavigationRequest.h
+END
+AMTrackFeature.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMTrackFeature.h
+END
+AMPriceCategoriesRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMPriceCategoriesRequest.h
+END
+AMHotAreaResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMHotAreaResult.h
+END
+AMPriceSubCategoryRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMPriceSubCategoryRequest.h
+END
+AMCompanyRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMCompanyRequest.m
+END
+AMPriceRange.m
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMPriceRange.m
+END
+AMSmartNavigationRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMSmartNavigationRequest.m
+END
+AMTrackFeature.m
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMTrackFeature.m
+END
+AMPriceCategoriesRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMPriceCategoriesRequest.m
+END
+AMHotAreaResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMHotAreaResult.m
+END
+AMPriceSubCategoryRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMPriceSubCategoryRequest.m
+END
+AMRecentOfferSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMRecentOfferSearch.h
+END
+AMFeature.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMFeature.h
+END
+AMRecentOfferSearch.m
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMRecentOfferSearch.m
+END
+AMFeature.m
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMFeature.m
+END
+AMOfferResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMOfferResult.h
+END
+AMMemberCredit.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMMemberCredit.h
+END
+AMOfferResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMOfferResult.m
+END
+AMCompany.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMCompany.h
+END
+AMMemberCredit.m
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMMemberCredit.m
+END
+AMGeographicResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMGeographicResult.h
+END
+AMProfileRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Model/search/AMProfileRequest.h
+END

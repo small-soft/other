@@ -1,0 +1,200 @@
+TTests
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app/Info.plist" Tests/Tests-Info.plist
+cProcessPCH /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Tests-Prefix-deeuzqjkogerhhhfiwztbmkvvepy/Tests-Prefix.pch.pth Tests/Tests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GHUnitProject.build/Debug-iphonesimulator/Tests.build/Objects-normal/i386/main.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/Tests/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app/Tests" normal i386
+cGenerateDSYMFile "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app.dSYM" "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app/Tests"
+cCopyStringsFile "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app/en.lproj/InfoPlist.strings" Tests/en.lproj/InfoPlist.strings
+cTouch "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004FA374090000000000000110
+t1336112137
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F6297FC0000000000244490
+t1331861500
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F6297FE0000000000353830
+t1331861502
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F6298030000000000905E40
+t1331861507
+s9461312
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/Tests/AppDelegate.m
+c000000005035926400000000000008FA
+t1345688164
+s2298
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/Tests/GHUnitIOS.framework/GHUnitIOS
+c00000000503594D30000000000313D7C
+t1345688787
+s3227004
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/Tests/Tests-Prefix.pch
+c00000000503592640000000000000139
+t1345688164
+s313
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/Tests/en.lproj/InfoPlist.strings
+c0000000050359264000000000000002D
+t1345688164
+s45
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/Tests/main.m
+c00000000503595EB0000000000000178
+t1345689067
+s376
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app
+t2
+s0
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app.dSYM
+t2
+s0
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app/Info.plist
+t2
+s0
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app/PkgInfo
+t2
+s0
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app/Tests
+t2
+s0
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/GHUnitProject.build/Debug-iphonesimulator/Tests.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/GHUnitProject.build/Debug-iphonesimulator/Tests.build/Objects-normal/i386/Tests.LinkFileList
+c000000005035960A00000000000000C3
+t1345689098
+s195
+
+N/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/GHUnitProject.build/Debug-iphonesimulator/Tests.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Tests-Prefix-deeuzqjkogerhhhfiwztbmkvvepy/Tests-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Tests-Prefix-gwudlxzixznpajgjqvdzlmqmrlpg/Tests-Prefix.pch.pth
+t2
+s0
+
+NTests/Tests-Info.plist
+c00000000503592640000000000000490
+t1345688164
+s1168
+
+CBuild AST from "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/Tests/AppDelegate.m"
+r0
+
+CBuild AST from "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/Tests/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa27ef389cde5b541^a838028acde5b541^---0#1#0#--18"Check dependencies36"0BE0361A-4B99-4399-A295-58F1143337BE-
+
+CCompileC build/GHUnitProject.build/Debug-iphonesimulator/Tests.build/Objects-normal/i386/AppDelegate.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/Tests/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/GHUnitProject.build/Debug-iphonesimulator/Tests.build/Objects-normal/i386/main.o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/Tests/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s367381898.309060
+e367381898.334049
+r1
+xCompileC
+xbuild/GHUnitProject.build/Debug-iphonesimulator/Tests.build/Objects-normal/i386/main.o
+x/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/Tests/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Compile /Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/Tests/main.m07454f8acde5b541^2b68568acde5b541^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/Tests/main.m0000000000000000^4247"CompileC build/GHUnitProject.build/Debug-iphonesimulator/Tests.build/Objects-normal/i386/main.o Tests/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/GHUnitProject.build/Debug-iphonesimulator/Tests.build/Tests-generated-files.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/GHUnitProject.build/Debug-iphonesimulator/Tests.build/Tests-own-target-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/GHUnitProject.build/Debug-iphonesimulator/Tests.build/Tests-all-target-headers.hmap" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/GHUnitProject.build/Debug-iphonesimulator/Tests.build/Tests-project-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/include" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/GHUnitProject.build/Debug-iphonesimulator/Tests.build/DerivedSources/i386" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/GHUnitProject.build/Debug-iphonesimulator/Tests.build/DerivedSources" "-F/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator" "-F/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/Tests" -include /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Tests-Prefix-deeuzqjkogerhhhfiwztbmkvvepy/Tests-Prefix.pch -MMD -MT dependencies -MF "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/GHUnitProject.build/Debug-iphonesimulator/Tests.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/GHUnitProject.build/Debug-iphonesimulator/Tests.build/Objects-normal/i386/main.dia" -c "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/Tests/main.m" -o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/GHUnitProject.build/Debug-iphonesimulator/Tests.build/Objects-normal/i386/main.o"36"B0DE1C93-A3B6-4E1D-A3BA-57C38870C94A-
+
+CCopyStringsFile "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app/en.lproj/InfoPlist.strings" Tests/en.lproj/InfoPlist.strings
+s367381898.495354
+e367381898.515487
+r1
+xCopyStringsFile
+x/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app/en.lproj/InfoPlist.strings
+xTests/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy Tests/en.lproj/InfoPlist.stringsb9e27e8acde5b541^c2f6838acde5b541^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/Tests/en.lproj/InfoPlist.strings0000000000000000^709"CopyStringsFile build/Debug-iphonesimulator/Tests.app/en.lproj/InfoPlist.strings Tests/en.lproj/InfoPlist.strings    cd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app/en.lproj" -- Tests/en.lproj/InfoPlist.strings36"A96609DE-E000-4415-AAC1-2B8FC51D1FE4-
+
+CGenerateDSYMFile "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app.dSYM" "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app/Tests"
+s367381898.420767
+e367381898.486233
+r1
+xGenerateDSYMFile
+x/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app.dSYM
+x/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app/Tests
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection161"Generating /Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app.dSYM9acd6b8acde5b541^fb787c8acde5b541^---0#0#0#-19%DVTDocumentLocation2@168"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app.dSYM000000000080d041^835"GenerateDSYMFile build/Debug-iphonesimulator/Tests.app.dSYM build/Debug-iphonesimulator/Tests.app/Tests    cd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app/Tests" -o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app.dSYM"36"9975F70B-2F46-4B13-BE3B-7A472ED3200F-
+
+CLd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app/Tests" normal i386
+s367381898.340628
+e367381898.413800
+r1
+xLd
+x/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app/Tests
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection156"Link /Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app/Tests834f578acde5b541^78ee698acde5b541^---0#0#0#--1654"Ld build/Debug-iphonesimulator/Tests.app/Tests normal i386    cd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk "-L/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator" "-F/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator" "-F/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/Tests" -filelist "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/GHUnitProject.build/Debug-iphonesimulator/Tests.build/Objects-normal/i386/Tests.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -ObjC -all_load -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -framework GHUnitIOS -o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app/Tests"36"A2DBC078-5C36-4FEC-BD16-E14066260FA7-
+
+CProcessInfoPlistFile "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app/Info.plist" Tests/Tests-Info.plist
+s367381898.012825
+e367381898.017152
+r1
+xProcessInfoPlistFile
+x/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app/Info.plist
+xTests/Tests-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"Process Tests/Tests-Info.plistbc59038acde5b541^7c63048acde5b541^---0#0#0#-19%DVTDocumentLocation2@148"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/Tests/Tests-Info.plist0000000000000000^849"ProcessInfoPlistFile build/Debug-iphonesimulator/Tests.app/Info.plist Tests/Tests-Info.plist    cd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Tests/Tests-Info.plist -genpkginfo "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app/Info.plist"36"B2B21BAF-212B-4399-B0B7-DEF4F43ED51D-
+
+CProcessPCH /Users/mardinpartytime/Library/Developer/Xcode/DerivedData/oct-afxkcmlxdhaymthergoagskenzjo/Index/PrecompiledHeaders/Tests-Prefix-dqbbkvcwaxdtxygdqmtlypvbfxig_ast/Tests-Prefix.pch.pth Tests/Tests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/mardinpartytime/Library/Developer/Xcode/DerivedData/oct-afxkcmlxdhaymthergoagskenzjo/Index/PrecompiledHeaders/Tests-Prefix-hkhswvbsrhaloheazxdkanjhkuvz_ast/Tests-Prefix.pch.pth Tests/Tests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Tests-Prefix-deeuzqjkogerhhhfiwztbmkvvepy/Tests-Prefix.pch.pth Tests/Tests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s367381898.026399
+e367381898.302168
+r1
+xProcessPCH
+x/var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Tests-Prefix-deeuzqjkogerhhhfiwztbmkvvepy/Tests-Prefix.pch.pth
+xTests/Tests-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile Tests/Tests-Prefix.pch14ed068acde5b541^d15a4d8acde5b541^---0#0#0#-19%DVTDocumentLocation2@148"file://localhost/Users/mardinpartytime/Desktop/ios%20workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/Tests/Tests-Prefix.pch0000000000000000^4060"ProcessPCH /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Tests-Prefix-deeuzqjkogerhhhfiwztbmkvvepy/Tests-Prefix.pch.pth Tests/Tests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/GHUnitProject.build/Debug-iphonesimulator/Tests.build/Tests-generated-files.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/GHUnitProject.build/Debug-iphonesimulator/Tests.build/Tests-own-target-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/GHUnitProject.build/Debug-iphonesimulator/Tests.build/Tests-all-target-headers.hmap" -iquote "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/GHUnitProject.build/Debug-iphonesimulator/Tests.build/Tests-project-headers.hmap" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/include" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/GHUnitProject.build/Debug-iphonesimulator/Tests.build/DerivedSources/i386" "-I/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/GHUnitProject.build/Debug-iphonesimulator/Tests.build/DerivedSources" "-F/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator" "-F/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/Tests" --serialize-diagnostics /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Tests-Prefix-deeuzqjkogerhhhfiwztbmkvvepy/Tests-Prefix.pch.dia -c "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/Tests/Tests-Prefix.pch" -o /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Tests-Prefix-deeuzqjkogerhhhfiwztbmkvvepy/Tests-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Tests-Prefix-deeuzqjkogerhhhfiwztbmkvvepy/Tests-Prefix.pch.d36"07A330F6-C413-4B55-B62A-654D97CAD53E-
+
+CProcessPCH /var/folders/rd/rc9rs0p10pgbq686bgnxrtdw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Tests-Prefix-gwudlxzixznpajgjqvdzlmqmrlpg/Tests-Prefix.pch.pth Tests/Tests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CTouch "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app"
+s367381898.524703
+e367381898.531103
+r1
+xTouch
+x/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"Touch /Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app6f64868acde5b541^1bf6878acde5b541^---0#0#0#--526"Touch build/Debug-iphonesimulator/Tests.app    cd "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/mardinpartytime/Desktop/ios workspace/mobile_client4ios/branches/20120820_102749_3/oct/GHUnitProject/build/Debug-iphonesimulator/Tests.app"36"A5D431CA-BAF5-4103-B0B1-9D0FAE7F6E98-
+

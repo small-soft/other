@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs
+END
+Server-localhost-sv.prm
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost-sv.prm
+END
+EdelCurlRoot-ca.prm
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/EdelCurlRoot-ca.prm
+END
+Server-localhost.nn-sv.csr
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost.nn-sv.csr
+END
+Server-localhost.nn-sv.key
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost.nn-sv.key
+END
+Server-localhost0h-sv.dhp
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost0h-sv.dhp
+END
+EdelCurlRoot-ca.cacert
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/EdelCurlRoot-ca.cacert
+END
+Server-localhost0h-sv.crl
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost0h-sv.crl
+END
+Server-localhost-sv.der
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost-sv.der
+END
+EdelCurlRoot-ca.der
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/EdelCurlRoot-ca.der
+END
+Server-localhost0h-sv.crt
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost0h-sv.crt
+END
+Server-localhost-sv.pem
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost-sv.pem
+END
+Server-localhost.nn-sv.dhp
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost.nn-sv.dhp
+END
+Server-localhost0h-sv.prm
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost0h-sv.prm
+END
+Server-localhost-sv.csr
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost-sv.csr
+END
+Server-localhost-sv.key
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost-sv.key
+END
+EdelCurlRoot-ca.csr
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/EdelCurlRoot-ca.csr
+END
+Server-localhost.nn-sv.crl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost.nn-sv.crl
+END
+EdelCurlRoot-ca.key
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/EdelCurlRoot-ca.key
+END
+Server-localhost0h-sv.der
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost0h-sv.der
+END
+Server-localhost.nn-sv.crt
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost.nn-sv.crt
+END
+Server-localhost-sv.p12
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost-sv.p12
+END
+Server-localhost.nn-sv.prm
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost.nn-sv.prm
+END
+EdelCurlRoot-ca.cnf
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/EdelCurlRoot-ca.cnf
+END
+Server-localhost0h-sv.pem
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost0h-sv.pem
+END
+Server-localhost-sv.dhp
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost-sv.dhp
+END
+Server-localhost0h-sv.csr
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost0h-sv.csr
+END
+Server-localhost0h-sv.key
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost0h-sv.key
+END
+Server-localhost-sv.crl
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost-sv.crl
+END
+Server-localhost.nn-sv.der
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost.nn-sv.der
+END
+Server-localhost-sv.crt
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost-sv.crt
+END
+EdelCurlRoot-ca.crt
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/EdelCurlRoot-ca.crt
+END
+Server-localhost0h-sv.p12
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost0h-sv.p12
+END
+Server-localhost.nn-sv.pem
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/linux/tests/certs/Server-localhost.nn-sv.pem
+END

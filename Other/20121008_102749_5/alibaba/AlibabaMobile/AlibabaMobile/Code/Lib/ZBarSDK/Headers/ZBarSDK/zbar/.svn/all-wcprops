@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Lib/ZBarSDK/Headers/ZBarSDK/zbar
+END
+Scanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Lib/ZBarSDK/Headers/ZBarSDK/zbar/Scanner.h
+END
+ImageScanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Lib/ZBarSDK/Headers/ZBarSDK/zbar/ImageScanner.h
+END
+._Processor.h
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Lib/ZBarSDK/Headers/ZBarSDK/zbar/._Processor.h
+END
+Exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Lib/ZBarSDK/Headers/ZBarSDK/zbar/Exception.h
+END
+._Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Lib/ZBarSDK/Headers/ZBarSDK/zbar/._Image.h
+END
+Symbol.h
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Lib/ZBarSDK/Headers/ZBarSDK/zbar/Symbol.h
+END
+Decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Lib/ZBarSDK/Headers/ZBarSDK/zbar/Decoder.h
+END
+._Scanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Lib/ZBarSDK/Headers/ZBarSDK/zbar/._Scanner.h
+END
+Video.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Lib/ZBarSDK/Headers/ZBarSDK/zbar/Video.h
+END
+Window.h
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Lib/ZBarSDK/Headers/ZBarSDK/zbar/Window.h
+END
+._ImageScanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Lib/ZBarSDK/Headers/ZBarSDK/zbar/._ImageScanner.h
+END
+._Exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Lib/ZBarSDK/Headers/ZBarSDK/zbar/._Exception.h
+END
+Processor.h
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Lib/ZBarSDK/Headers/ZBarSDK/zbar/Processor.h
+END
+Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Lib/ZBarSDK/Headers/ZBarSDK/zbar/Image.h
+END
+._Symbol.h
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Lib/ZBarSDK/Headers/ZBarSDK/zbar/._Symbol.h
+END
+._Decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Lib/ZBarSDK/Headers/ZBarSDK/zbar/._Decoder.h
+END
+._Video.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Lib/ZBarSDK/Headers/ZBarSDK/zbar/._Video.h
+END
+._Window.h
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/Lib/ZBarSDK/Headers/ZBarSDK/zbar/._Window.h
+END

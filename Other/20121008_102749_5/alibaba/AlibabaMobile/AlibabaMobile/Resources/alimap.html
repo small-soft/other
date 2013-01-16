@@ -1,0 +1,90 @@
+<html>
+<head>
+
+<script  src="http://api.ditu.aliyun.com/map.js">
+</script>
+<script type="text/javascript">
+	function adjustHeight(){
+		var height = document.documentElement.offsetHeight;
+		var divElement = document.getElementById("mapDiv");
+		divElement.style.height=String(height)+'px';
+	}
+	window.onresize=adjustHeight;
+	window.onload=adjustHeight;
+</script>
+
+</head>
+<body style="margin:0px">
+
+<div id="mapDiv" style="width:100%">
+</div> 
+<script type="text/javascript">  
+	adjustHeight();
+    
+    var latitude;
+    var longitude;
+    var companyName;
+    var companyAddress;
+    
+	map = new AliMap("mapDiv"); //ʹ��idΪmapDiv�Ĳ㴴��һ����ͼ����   
+    
+    function initAlimap()
+    {
+        
+//        alert(latitude +" " + longitude + " " + companyName + " " + companyAddress);
+        
+        map.centerAndZoom(new AliLatLng(latitude,longitude),15);//��ʾ��ͼ	
+        control = new AliMapLargeControl(
+                                         {hidePanBtn:false,hideZoomBtn:false,hideZoomBar:true});
+        map.addControl(control);
+        control.setPosition({x:2,y:2});
+        
+        //����һ����γ�ȣ�����������С���(��̶ӡ��)���ľ�γ��
+        var latlng=new AliLatLng(latitude,longitude);
+        //�ڸ���괦����һ�����
+        marker=new AliMarker(latlng);
+        //���ñ����ӵ���ͼ
+        map.addOverlay(marker);
+        
+        var infowin=openInfoWin(marker);
+        AliEvent.addListener(marker,"click",openInfoWin);
+    }
+	
+	
+	function openInfoWin(marker){
+		
+		marker.openInfoWindow(""+companyName,"<div>"+companyAddress+"</div>");
+	}
+	function closeInfoWin(marker){   
+		marker.closeInfoWindow();
+	}
+	
+	
+	//AliEvent.addListener(map, "click", onClick);
+	function onClick(point){
+		var latlng=map.fromContainerPixelToLatLng(point);    
+		var str=[];    
+		str.push("�����λ��Ϊ("+point.x+","+point.y+")");    
+		str.push("��������Ϊ("+latlng.lat()+","+latlng.lng()+")");    
+		alert(str.join(" "));
+	}
+	
+	//�����ڵ�ͼ�ƶ���ִ�еĺ���
+	//�˺������move�¼����ݵĲ���
+	function onMapMove(center){    
+		var str = [];
+		str.push("���ĵ�ά�ȣ�" + center.lat());    
+		str.push("���ĵ㾫�ȣ�" + center.lng());    
+		str.push("���ŵȼ���" + map.getZoom());
+		alert(str.join(" "));
+	}
+//	AliEvent.addListener(map,"aftermove",onMapMove);
+	
+	
+//	map.addControl(new AliMapLargeControl());    
+	map.addControl(new AliMapScaleControl());    
+//	map.addControl(new AliMapMouseWheelControl());
+</script>
+</body>
+</html>
+

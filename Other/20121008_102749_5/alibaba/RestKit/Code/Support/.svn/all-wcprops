@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support
+END
+RKParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKParser.h
+END
+RKSearchEngine.m
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKSearchEngine.m
+END
+lcl_config_logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/lcl_config_logger.h
+END
+RKCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKCache.h
+END
+RKDirectory.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKDirectory.h
+END
+RKAlert.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKAlert.h
+END
+lcl_config_components.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/lcl_config_components.h
+END
+RKCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKCache.m
+END
+RKDirectory.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKDirectory.m
+END
+RKMIMETypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKMIMETypes.h
+END
+RKErrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKErrors.h
+END
+RKAlert.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKAlert.m
+END
+RKDotNetDateFormatter.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKDotNetDateFormatter.h
+END
+RKErrors.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKErrors.m
+END
+lcl_config_extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/lcl_config_extensions.h
+END
+RKMIMETypes.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKMIMETypes.m
+END
+RKLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKLog.h
+END
+RKFixCategoryBug.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKFixCategoryBug.h
+END
+RKDotNetDateFormatter.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKDotNetDateFormatter.m
+END
+RKLog.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKLog.m
+END
+RKMutableBlockDictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKMutableBlockDictionary.h
+END
+RKISO8601DateFormatter.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKISO8601DateFormatter.h
+END
+RKMutableBlockDictionary.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKMutableBlockDictionary.m
+END
+RKPathMatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKPathMatcher.h
+END
+RKISO8601DateFormatter.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKISO8601DateFormatter.m
+END
+RKPathMatcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKPathMatcher.m
+END
+RestKit-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RestKit-Prefix.pch
+END
+RKOrderedDictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKOrderedDictionary.h
+END
+NSURL+RKAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/NSURL+RKAdditions.h
+END
+RKOrderedDictionary.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKOrderedDictionary.m
+END
+Support.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/Support.h
+END
+NSDictionary+RKAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/NSDictionary+RKAdditions.h
+END
+NSString+RKAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/NSString+RKAdditions.h
+END
+NSURL+RKAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/NSURL+RKAdditions.m
+END
+NSBundle+RKAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/NSBundle+RKAdditions.h
+END
+NSDictionary+RKAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/NSDictionary+RKAdditions.m
+END
+NSString+RKAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/NSString+RKAdditions.m
+END
+NSBundle+RKAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/NSBundle+RKAdditions.m
+END
+RKSearchEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Support/RKSearchEngine.h
+END

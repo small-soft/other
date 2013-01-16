@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Examples/RKCatalog/App
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Examples/RKCatalog/App/main.m
+END
+RootViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Examples/RKCatalog/App/RootViewController.h
+END
+RKCatalogAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Examples/RKCatalog/App/RKCatalogAppDelegate.h
+END
+RKCatalog-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Examples/RKCatalog/App/RKCatalog-Info.plist
+END
+RKCatalog-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Examples/RKCatalog/App/RKCatalog-Prefix.pch
+END
+RKCatalog.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Examples/RKCatalog/App/RKCatalog.h
+END
+RootViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Examples/RKCatalog/App/RootViewController.m
+END
+RKCatalogAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Examples/RKCatalog/App/RKCatalogAppDelegate.m
+END

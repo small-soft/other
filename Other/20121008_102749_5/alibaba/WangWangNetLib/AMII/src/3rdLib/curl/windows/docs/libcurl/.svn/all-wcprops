@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/Makefile.in
+END
+curl_multi_assign.3
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_multi_assign.3
+END
+curl_easy_setopt.3
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_easy_setopt.3
+END
+curl_escape.3
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_escape.3
+END
+curl_multi_socket.3
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_multi_socket.3
+END
+curl_formget.3
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_formget.3
+END
+curl_easy_strerror.3
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_easy_strerror.3
+END
+curl_unescape.3
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_unescape.3
+END
+curl_formfree.3
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_formfree.3
+END
+ABI
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/ABI
+END
+libcurl-easy.3
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/libcurl-easy.3
+END
+curl_global_cleanup.3
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_global_cleanup.3
+END
+libcurl.3
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/libcurl.3
+END
+curl_easy_send.3
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_easy_send.3
+END
+curl_formadd.3
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_formadd.3
+END
+symbols-in-versions
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/symbols-in-versions
+END
+curl_multi_init.3
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_multi_init.3
+END
+curl_mprintf.3
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_mprintf.3
+END
+curl_easy_recv.3
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_easy_recv.3
+END
+curl_global_init_mem.3
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_global_init_mem.3
+END
+curl_free.3
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_free.3
+END
+libcurl-errors.3
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/libcurl-errors.3
+END
+curl_multi_perform.3
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_multi_perform.3
+END
+curl_easy_duphandle.3
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_easy_duphandle.3
+END
+curl_share_init.3
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_share_init.3
+END
+curl_version.3
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_version.3
+END
+curl_slist_free_all.3
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_slist_free_all.3
+END
+curl_multi_setopt.3
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_multi_setopt.3
+END
+curl_easy_perform.3
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_easy_perform.3
+END
+curl_multi_strerror.3
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_multi_strerror.3
+END
+curl_easy_pause.3
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_easy_pause.3
+END
+curl_multi_socket_action.3
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_multi_socket_action.3
+END
+libcurl-multi.3
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/libcurl-multi.3
+END
+curl_multi_info_read.3
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_multi_info_read.3
+END
+curl_multi_timeout.3
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_multi_timeout.3
+END
+curl_share_setopt.3
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_share_setopt.3
+END
+curl_strequal.3
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_strequal.3
+END
+curl_version_info.3
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_version_info.3
+END
+curl_multi_cleanup.3
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_multi_cleanup.3
+END
+curl_easy_reset.3
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_easy_reset.3
+END
+curl_share_strerror.3
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_share_strerror.3
+END
+libcurl-share.3
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/libcurl-share.3
+END
+curl_easy_cleanup.3
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_easy_cleanup.3
+END
+libcurl-tutorial.3
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/libcurl-tutorial.3
+END
+curl_share_cleanup.3
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_share_cleanup.3
+END
+curl_easy_getinfo.3
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_easy_getinfo.3
+END
+curl_multi_add_handle.3
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_multi_add_handle.3
+END
+curl_getdate.3
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_getdate.3
+END
+curl_multi_fdset.3
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_multi_fdset.3
+END
+curl_easy_escape.3
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_easy_escape.3
+END
+curl_multi_remove_handle.3
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_multi_remove_handle.3
+END
+curl_global_init.3
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_global_init.3
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/Makefile.am
+END
+curl_easy_init.3
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_easy_init.3
+END
+curl_easy_unescape.3
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_easy_unescape.3
+END
+curl_slist_append.3
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_slist_append.3
+END
+libcurl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/libcurl.m4
+END
+curl_getenv.3
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/src/3rdLib/curl/windows/docs/libcurl/curl_getenv.3
+END

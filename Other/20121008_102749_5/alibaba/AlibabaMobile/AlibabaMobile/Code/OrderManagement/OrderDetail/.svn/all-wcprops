@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/ali_cbu_mobile/!svn/ver/19200/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail
+END
+AMOrderDetailRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderDetailRequest.m
+END
+AMOrderLogisticsModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderLogisticsModel.h
+END
+AliKeyValueCellForBuyerSeller.xib
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/ali_cbu_mobile/!svn/ver/19257/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AliKeyValueCellForBuyerSeller.xib
+END
+AMOrderProtocolModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderProtocolModel.h
+END
+AMOrderInvoiceModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderInvoiceModel.m
+END
+AMOrderLogisticsModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderLogisticsModel.m
+END
+AliKeyValueCellForBuyerSeller.h
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AliKeyValueCellForBuyerSeller.h
+END
+AMOrderProtocolModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderProtocolModel.m
+END
+AliKeyValueCellForBuyerSeller.m
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AliKeyValueCellForBuyerSeller.m
+END
+AMOrderProtocolView.h
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/ali_cbu_mobile/!svn/ver/19280/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderProtocolView.h
+END
+AMOrderModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderModel.h
+END
+AMOrderProtocolView.m
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderProtocolView.m
+END
+AMOrderModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderModel.m
+END
+AMBuyerSellerInfoView.h
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMBuyerSellerInfoView.h
+END
+AMBuyerSellerInfoView.m
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMBuyerSellerInfoView.m
+END
+AMSpecItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMSpecItem.h
+END
+AMOrderBillView.h
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderBillView.h
+END
+AliKeyValueCellForInvoice.xib
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/ali_cbu_mobile/!svn/ver/19280/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AliKeyValueCellForInvoice.xib
+END
+AMSpecItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMSpecItem.m
+END
+AMOrderBillView.m
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderBillView.m
+END
+AMOrderEntryModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderEntryModel.h
+END
+AliKeyValueCellForInvoice.h
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AliKeyValueCellForInvoice.h
+END
+AMOrderEntryModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderEntryModel.m
+END
+AliKeyValueCellForInvoice.m
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AliKeyValueCellForInvoice.m
+END
+AMOrderCustomerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderCustomerView.h
+END
+AMOrderDetailViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderDetailViewController.xib
+END
+AMOrderCustomerView.m
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderCustomerView.m
+END
+AMOrderDetailResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderDetailResult.h
+END
+AMOrderDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderDetailViewController.h
+END
+AMProductDetailView.h
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMProductDetailView.h
+END
+AMOrderDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderDetailViewController.m
+END
+AMOrderDetailResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderDetailResult.m
+END
+AMProductDetailView.m
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMProductDetailView.m
+END
+AMOrderLogisticsCompanyModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderLogisticsCompanyModel.h
+END
+AMOrderDetailRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderDetailRequest.h
+END
+AMOrderLogisticsCompanyModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderLogisticsCompanyModel.m
+END
+AMOrderInvoiceModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/ali_cbu_mobile/!svn/ver/19324/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/OrderManagement/OrderDetail/AMOrderInvoiceModel.h
+END

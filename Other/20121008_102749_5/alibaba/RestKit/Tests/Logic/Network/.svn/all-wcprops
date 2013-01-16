@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Logic/Network
+END
+RKRequestTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Logic/Network/RKRequestTest.m
+END
+RKParamsAttachmentTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Logic/Network/RKParamsAttachmentTest.m
+END
+RKRequestQueueTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Logic/Network/RKRequestQueueTest.m
+END
+RKClientTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Logic/Network/RKClientTest.m
+END
+RKResponseTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Logic/Network/RKResponseTest.m
+END
+RKAuthenticationTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Logic/Network/RKAuthenticationTest.m
+END
+RKOAuthClientTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Logic/Network/RKOAuthClientTest.m
+END
+RKURLTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Logic/Network/RKURLTest.m
+END
+RKParamsTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Logic/Network/RKParamsTest.m
+END

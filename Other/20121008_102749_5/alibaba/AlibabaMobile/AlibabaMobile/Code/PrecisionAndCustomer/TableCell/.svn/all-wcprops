@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell
+END
+AliPrecisionFirstCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliPrecisionFirstCell.h
+END
+AliTableViewMyCustomerCellPicker.xib
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliTableViewMyCustomerCellPicker.xib
+END
+AliTableViewMyCustomerPickerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliTableViewMyCustomerPickerView.h
+END
+AliEnqueryFirstCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliEnqueryFirstCell.m
+END
+AliTableViewCellMyCustomer.xib
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliTableViewCellMyCustomer.xib
+END
+AliPrecisionFirstCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliPrecisionFirstCell.m
+END
+AliTableViewMyCustomerCellPicker.h
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliTableViewMyCustomerCellPicker.h
+END
+AliTableViewMyCustomerPickerView.m
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliTableViewMyCustomerPickerView.m
+END
+AliTableViewCellMyCustomer.h
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliTableViewCellMyCustomer.h
+END
+AliTableViewMyCustomerCellPicker.m
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliTableViewMyCustomerCellPicker.m
+END
+AliTableViewCellMyCustomer.m
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliTableViewCellMyCustomer.m
+END
+AliTableViewCellSuggest.xib
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliTableViewCellSuggest.xib
+END
+AliEnqueryCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliEnqueryCell.xib
+END
+AliTableViewCellSuggest.h
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliTableViewCellSuggest.h
+END
+AliTableViewCellAllVisitor.xib
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliTableViewCellAllVisitor.xib
+END
+AliPrecisionCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliPrecisionCell.xib
+END
+AliEnqueryCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliEnqueryCell.h
+END
+AliTableViewCellSuggest.m
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliTableViewCellSuggest.m
+END
+AliTableViewCellAllVisitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliTableViewCellAllVisitor.h
+END
+AliPrecisionCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliPrecisionCell.h
+END
+AliEnqueryFirstCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliEnqueryFirstCell.xib
+END
+AliEnqueryCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliEnqueryCell.m
+END
+AliPrecisionFirstCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliPrecisionFirstCell.xib
+END
+AliTableViewMyCustomerPickerView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliTableViewMyCustomerPickerView.xib
+END
+AliTableViewCellAllVisitor.m
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliTableViewCellAllVisitor.m
+END
+AliPrecisionCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliPrecisionCell.m
+END
+AliEnqueryFirstCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/PrecisionAndCustomer/TableCell/AliEnqueryFirstCell.h
+END

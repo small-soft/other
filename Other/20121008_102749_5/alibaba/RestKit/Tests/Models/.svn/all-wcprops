@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models
+END
+RKObjectMapperTestModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKObjectMapperTestModel.h
+END
+RKParent.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKParent.m
+END
+RKSearchable.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKSearchable.m
+END
+RKObjectMapperTestModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKObjectMapperTestModel.m
+END
+RKDynamicMappingModels.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKDynamicMappingModels.h
+END
+RKCat.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKCat.h
+END
+RKMappableObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKMappableObject.h
+END
+RKHuman.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKHuman.h
+END
+RKDynamicMappingModels.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKDynamicMappingModels.m
+END
+RKCat.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKCat.m
+END
+RKHuman.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKHuman.m
+END
+RKMappableObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKMappableObject.m
+END
+RKObjectLoaderTestResultModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKObjectLoaderTestResultModel.h
+END
+RKResident.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKResident.h
+END
+RKMappableAssociation.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKMappableAssociation.h
+END
+RKTestUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKTestUser.h
+END
+RKEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKEvent.h
+END
+RKObjectLoaderTestResultModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKObjectLoaderTestResultModel.m
+END
+RKResident.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKResident.m
+END
+RKMappableAssociation.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKMappableAssociation.m
+END
+RKHouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKHouse.h
+END
+RKChild.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKChild.h
+END
+RKTestUser.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKTestUser.m
+END
+RKTestAddress.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKTestAddress.h
+END
+RKEvent.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKEvent.m
+END
+RKHouse.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKHouse.m
+END
+RKChild.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKChild.m
+END
+RKParent.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKParent.h
+END
+RKSearchable.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKSearchable.h
+END
+RKTestAddress.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Models/RKTestAddress.m
+END

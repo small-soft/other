@@ -1,0 +1,49 @@
+10
+
+dir
+19216
+http://svn.alibaba-inc.com/repos/ali_cbu_mobile/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/AMII/inc/3rdLib
+http://svn.alibaba-inc.com/repos/ali_cbu_mobile
+
+
+
+2012-10-08T03:28:28.740780Z
+19109
+rocky.wenk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14c829da-1a89-4dd9-bbd2-13670c5141fb
+
+zlib2
+dir
+
+sqlite3
+dir
+
+cstl
+dir
+
+ghttp
+dir
+
+json
+dir
+
+minixml
+dir
+
+util
+dir
+

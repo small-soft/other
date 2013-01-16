@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/ali_cbu_mobile/!svn/ver/19214/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Application/RKApplicationTests/App
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Application/RKApplicationTests/App/main.m
+END
+RKATAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Application/RKApplicationTests/App/RKATAppDelegate.h
+END
+RKApplicationTests-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Application/RKApplicationTests/App/RKApplicationTests-Info.plist
+END
+RKApplicationTests-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Application/RKApplicationTests/App/RKApplicationTests-Prefix.pch
+END
+RKATAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Application/RKApplicationTests/App/RKATAppDelegate.m
+END

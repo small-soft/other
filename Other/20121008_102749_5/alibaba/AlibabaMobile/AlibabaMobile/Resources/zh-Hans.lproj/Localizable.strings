@@ -1,0 +1,230 @@
+/* 
+  Localizable.strings
+  AlibabaMobile
+
+  Created by zzh on 11-12-21.
+  Copyright (c) 2011年 __MyCompanyName__. All rights reserved.
+*/
+"Home" = "首页" ;
+"Logitics" = "物流" ;
+"ImTitle" = "旺旺";
+"IM" = "用户登录" ;
+"Favorites" = "收藏夹" ;
+"Customers" = "询盘管理" ;
+"More" = "更多";
+"HomeTableItem1"="最新资讯";
+"HomeTableItem2"="价格行情";
+"HomeTableItem3"="类目浏览";
+"HomeTableItem4"="热门画报";
+"HomeTableItem5"="热销排行";
+"HomeTableItem6"="新品专区";
+"HomeTitle"="首页";
+"NewsTitle"="热点资讯";
+"bannerProduct"="请输入产品名称";
+"bannerCompany"="请输入公司名称";
+"bannerPrice"="请输入价格";
+"LogiticsDetail"="物流详情";
+"NetworkAvailableViaWifi"="通过WIFI连接网络";
+"Failed to connect with server"="连接服务器失败，请检查网络设置！";
+"Connect to server timeout"="连接服务器超时，请稍后重试！";
+
+"AddFavSucc" = "收藏成功";
+"AddFavFail" = "收藏失败";
+"AlreadyAddFavCompany" = "公司已收藏";
+"AlreadyAddFavOffer" = "产品已收藏";
+"AlreadyAddFavPrice" = "价格已收藏";
+"AddFavExceedCompany" = "公司收藏已达上限";
+"AddFavExceedOffer" = "产品收藏已达上限";
+"AddFavExceedPrice" = "价格收藏已达上限";
+
+// OFFER
+"NO_CREDIT_DATA" = "该客户无诚信档案数据！";
+// 精准营销
+"Notice" = "提示";
+"Precision" = "精准营销";
+"PM_Use_Talk_Confirm" = "您目前是免费版用户，每天只能针对一个未洽谈过的访客发起洽谈。确定要使用今天的洽谈机会吗？";
+"PM_Cannot_Talk" = "抱歉，今天您已经发起过洽谈。请明天再试,或升级为付费版,享无限量洽谈。";
+"PMVisitorDetail" = "访客资料";
+
+"Current" = "当前";
+"Today" = "今天";
+"Yesterday" = "昨天";
+"DayBeforeYesterday" = "前天";
+
+"TotalCountHeader" = "共计";
+"TotalCountTail" = "条结果";
+"MoreLoading" = "更多加载...";
+// 询盘管理
+"ADD_ERROR_CODE_USER_NOT_EXIST" = "被添加用户不存在";
+"ADD_ERROR_CODE_FREE_UPPER_LIMIT" = "本月可添加的客户数已达到上限，请线上购买询盘管理付费版";
+"ADD_ERROR_CODE_LEADS_USED" = "已拥有该leads";
+"ADD_ERROR_CODE_LEADS_BUYER_EXIST" = "买家已存在";
+"ADD_ERROR_CODE_LEADS_ENQUIRIES_FAILURE" = "创建询盘失败";
+
+"TALK_ERROR_NOT_REG_MEMBER" = "该用户不是注册会员";
+
+// 物流
+"NO_MAIL_INFO" = "暂无物流跟踪记录";
+
+/* 
+ Localizable.strings
+ WangWang
+ 
+ Created by nowa on 11-5-18.
+ Copyright 2011 Infothinkerhk. All rights reserved.
+ */
+
+"Online" = "我有空";
+"Busy" = "忙碌中";
+"Away" = "不在电脑旁";
+"On the Phone" = "接听电话中";
+"Out to Lunch" = "外出就餐";
+"Be Right Back" = "稍后";
+"Invisible" = "隐身";
+"Blocked Contacts" = "黑名单";
+"Member ID" = "会员名";
+"Name" = "姓名";
+"Gender" = "性别";
+"Birthday" = "生日";
+"Zodiac Sign" = "星座";
+"Year of" = "生肖";
+"Country" = "国家";
+"State/Province" = "省";
+"City" = "市";
+"Cell Phone" = "手机号码";
+"Tel" = "电话";
+"Email Address" = "邮箱";
+"Occupation" = "职业";
+"School" = "毕业院校";
+"Homepage" = "个人主页";
+"%@[%@]has rejected your add request" = "%@[%@]拒绝您的添加";
+"Auto Respond" = "自动回复";
+"%@[%@]wants to add you!" = "%@[%@]添加好友请求";
+"%@[%@]has added you!" = "%@[%@]已添加您为好友";
+"Add Contact" = "添加好友";
+"Personal Details" = "用户信息";
+"Back" = "返回";
+"Refresh" = "刷新";
+"Signature" = "个性签名";
+"We are unable to confirm the safety of this link. Please only open links from reliable sites" = "警告！此链接不是淘宝网站链接，可能有危险，请不要进行任何交易付款行为，以免上当受骗";
+"Cancel" = "取消";
+"OK" = "确定";
+"Open Link" = "打开链接";
+"Are you sure you want to cancel this image transfer?" = "图片正在传输，你确定要停止？";
+"View Message History" = "查看历史聊天记录";
+"View Contact Details" = "查看好友资料";
+"Block Contact" = "移至黑名单";
+"You cannot send images to offline contacts!" = "不能发送图片信息给离线好友";
+"You can only send one image at a time!" = "图片正在发送中，一次只能发送一张图片!";
+"Take a photo to send" = "立即拍照发送";
+"Select image to send" = "选择本地图片发送";
+"Select an existing photo" = "选择已有照片";
+"Chat" = "聊天";
+"Block contact failed" = "移入黑名单失败";
+"You can only send up to 400 characters" = "不能发送超过400个字符";
+"Do you want to receive the image?" = "是否接收对方发的图片?";
+"Contacts List" = "好友列表";
+"Search" = "搜索";
+"Non Contacts" = "陌生人";
+"Blocked Contacts" = "黑名单";
+"Account error. You cannot add contacts!" = "异常帐号，无法添加联系人";
+"Your account is inactive. Please activate your account first before adding contacts." = "您的帐号未激活，不能添加联系人，请先激活";
+"Modify Nick Name" = "修改显示名";
+"Move Contact" = "移动好友";
+"Add to Contacts" = "加为好友";
+"Send Messages" = "发送信息";
+"Unblock" = "移出黑名单";
+"Delete Contact" = "删除好友";
+"Contacts" = "好友";
+"Contact Details" = "好友信息";
+"Are you sure you want to delete?" = "您确定要确定删除吗?";
+"Move to group failed because of network failure." = "网络故障未能换组";
+"Delete failed because of network failure." = "网络故障未能删除";
+"Search Contacts" = "搜索好友";
+"From %@" = "来自%@";
+"This user has already been blocked." = "该用户已经在您的黑名单中";
+"This user is already in Contacts List." = "该用户已经在您的好友列表中";
+"You cannot add yourself!" = "不能添加自己为好友";
+"Member ID does not exist." = "会员名不存在";
+"The user refused your add request!" = "该用户拒绝任何人添加其为好友";
+"You cannot add inactive contacts." = "对方未激活,无法添加";
+"You do not have permission to add contacts." = "您没有权限添加好友";
+"You cannot add new contacts because you have reached the maximum allowable number of contacts." = "您的联系人已经达到了最大人数,不能再添加新的联系人了。";
+"You cannot add any more new contacts today." = "今日添加好友数目已满";
+"Add failed because of an unknown error!" = "未知错误，添加失败";
+"Finish" = "完成";
+"Choose group" = "请选择组";
+"Move to group failed!" = "换组失败";
+"Contact added!" = "添加成功";
+"Display Name" = "显示名称";
+"Send" = "发送";
+"You are limited to 15 characters." = "不能超过15个字符";
+"Message History" = "聊天记录";
+"Clear Message History" = "清除历史聊天记录";
+"About TradeManager" = "关于阿里旺旺";
+"Your add request was rejected." = "添加请求被拒绝";
+"Your add request was rejected for the following reason(s):" = "拒绝了您的添加请求，并发信息给您：";
+"You were successfully added!" = "被添加成功";
+"Add contact failed because of an unknown error." = "异常错误，添加失败";
+"Add" = "添加";
+"You have an add request!" = "将您添加为好友";
+"Modify" = "编辑";
+"Clear all" = "全部清空";
+"%@[%@] wants to add you as a contact." = "%@[%@] 希望添加你为好友。";
+"Add Request" = "添加请求";
+"Message" = "消息";
+"Message:" = "验证消息：";
+"Accept" = "允许";
+"Accept & Add" = "允许并添加好友";
+"Reject" = "拒绝";
+"Reject & Block" = "拒绝并加入黑名单";
+"Reject the request" = "拒绝该好友";
+"Sign in timeout. Please try again." = "登陆超时,请重新登录";
+"Delete" = "删除";
+"You are limited to 120 characters." = "不能超过120个字符";
+"You are limited to 24 characters." = "不能超过24个字符";
+"Sign in error." = "E客服帐号不能登录阿里旺旺";
+"Member ID is empty!" = "用户名不能为空";
+"Password is empty!" = "密码不能为空";
+"Network error!" = "网络连接失败";
+"Incorrect password!" = "该会员名和密码不匹配";
+"This account is blocked!" = "该帐号已冻结,不能登录";
+"Unknown error" = "未知错误";
+"Signing in…" = "登录中";
+"Join Free" = "注册";
+"Sign In" = "登录";
+"Save Password" = "记住密码";
+"Auto Sign In" = "自动登录";
+"Verification canceled. Your messages or requests may not be sent." = "取消验证码，您之前所发的消息或请求将无法成功发送给对方。";
+"Network error, please sign in again." = "网络断开，您要重新登录";
+"Verification code empty, please retry!" = "您输入的验证码为空,请重新输入";
+"Verification code incorrect, please retry!" = "您输入的验证码有误,请重新输入";
+"Please enter verification code:" = "为确保您帐号的安全,在下一步操作前请先输入验证码：";
+"Verification" = "安全验证";
+"Settings" = "设置";
+"Save" = "保存";
+"Select a date" = "请选择日期";
+"Saved" = "信息已保存";
+"Exit" = "退出";
+"Status" = "状态";
+"Sound Alert" = "声音提示";
+"Shake Alert" = "震动提示";
+"Receive messages from Non Contacts" = "接受陌生人消息";
+"Add me without confirmation" = "不用我验证就能加我为好友";
+"Add me after confirmation" = "需要我验证,才能加我为好友";
+"Block all attempts to add me" = "拒绝任何人加我为好友";
+"Add request settings" = "验证方式";
+"Show new messages" = "自动显示消息条数";
+"New messages settings" = "信息条数";
+"Are you sure you want to clear message history?" = "您确定要清空聊天记录吗?";
+"Message history cleared!" = "清空聊天记录成功";
+"Are you sure you want to exit TradeManager?" = "您确定要退出阿里旺旺吗?";
+"Preferences" = "系统设置";
+"Modify signature failed" = "个性签名修改失败";
+"Sign out notification" = "下线通知";
+"You have been signed out of TradeManager because another user has signed in using your Member ID." = "您的帐号在另一客户端登录，您被迫下线";
+"Sign in again" = "重新登录";
+"Network error!" = "网络错误";
+"Alibaba.com China" = "阿里巴巴中国站";
+"Taobao.com" = "淘宝网";
+"Alibaba.com" = "阿里巴巴国际站";

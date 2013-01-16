@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IMProtocolApi/MIMNet/src
+END
+IMnetCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IMProtocolApi/MIMNet/src/IMnetCallback.h
+END
+IMnetSignature.c
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IMProtocolApi/MIMNet/src/IMnetSignature.c
+END
+IMProtocol.vcproj.HZ.mervin.lix.user
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IMProtocolApi/MIMNet/src/IMProtocol.vcproj.HZ.mervin.lix.user
+END
+IMnetUtility.c
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IMProtocolApi/MIMNet/src/IMnetUtility.c
+END
+IMnetMain.c
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IMProtocolApi/MIMNet/src/IMnetMain.c
+END
+IMnetPacket.c
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IMProtocolApi/MIMNet/src/IMnetPacket.c
+END
+IMnetRequest.c
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IMProtocolApi/MIMNet/src/IMnetRequest.c
+END
+IMnetUtility.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IMProtocolApi/MIMNet/src/IMnetUtility.h
+END
+IMnetMain.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IMProtocolApi/MIMNet/src/IMnetMain.h
+END
+IMnetStruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IMProtocolApi/MIMNet/src/IMnetStruct.h
+END
+IMProtocol.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IMProtocolApi/MIMNet/src/IMProtocol.vcproj
+END
+IMnetCallback.c
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IMProtocolApi/MIMNet/src/IMnetCallback.c
+END
+IMnetPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IMProtocolApi/MIMNet/src/IMnetPacket.h
+END
+IMnetRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/WangWangNetLib/IMProtocolApi/MIMNet/src/IMnetRequest.h
+END

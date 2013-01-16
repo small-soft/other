@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/AMUI/Views/AMMenuView
+END
+AMMenuItemView.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/AMUI/Views/AMMenuView/AMMenuItemView.h
+END
+AMMenuItemViewStyleImageOnly.xib
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/AMUI/Views/AMMenuView/AMMenuItemViewStyleImageOnly.xib
+END
+AMMenuView.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/ali_cbu_mobile/!svn/ver/19229/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/AMUI/Views/AMMenuView/AMMenuView.h
+END
+AMMenuItemViewStyleTextOnly.xib
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/AMUI/Views/AMMenuView/AMMenuItemViewStyleTextOnly.xib
+END
+AMMenuItemView.m
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/AMUI/Views/AMMenuView/AMMenuItemView.m
+END
+AMMenuView.m
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/ali_cbu_mobile/!svn/ver/19229/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/AMUI/Views/AMMenuView/AMMenuView.m
+END
+AMMenuItemViewStyleImageAndText.xib
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/AlibabaMobile/AlibabaMobile/Code/AMUI/Views/AMMenuView/AMMenuItemViewStyleImageAndText.xib
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Testing
+END
+RKTestFactory.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Testing/RKTestFactory.m
+END
+RKTestNotificationObserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Testing/RKTestNotificationObserver.h
+END
+RKMappingTestExpectation.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Testing/RKMappingTestExpectation.h
+END
+RKMappingTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Testing/RKMappingTest.m
+END
+Testing.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Testing/Testing.h
+END
+RKTestNotificationObserver.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Testing/RKTestNotificationObserver.m
+END
+RKMappingTestExpectation.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Testing/RKMappingTestExpectation.m
+END
+RKTestResponseLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Testing/RKTestResponseLoader.h
+END
+RKTestFixture.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Testing/RKTestFixture.h
+END
+RKTestFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Testing/RKTestFactory.h
+END
+RKTestResponseLoader.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Testing/RKTestResponseLoader.m
+END
+RKMappingTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Testing/RKMappingTest.h
+END
+RKTestFixture.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Code/Testing/RKTestFixture.m
+END

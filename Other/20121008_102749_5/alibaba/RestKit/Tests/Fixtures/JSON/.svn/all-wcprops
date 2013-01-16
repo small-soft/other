@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Fixtures/JSON
+END
+NakedEvents.json
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Fixtures/JSON/NakedEvents.json
+END
+RailsUser.json
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Fixtures/JSON/RailsUser.json
+END
+ComplexNestedUser.json
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Fixtures/JSON/ComplexNestedUser.json
+END
+SameKeyDifferentTargetClasses.json
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Fixtures/JSON/SameKeyDifferentTargetClasses.json
+END
+errors.json
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Fixtures/JSON/errors.json
+END
+user.json
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Fixtures/JSON/user.json
+END
+ArrayOfHumans.json
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Fixtures/JSON/ArrayOfHumans.json
+END
+DynamicKeys.json
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Fixtures/JSON/DynamicKeys.json
+END
+nested_user.json
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Fixtures/JSON/nested_user.json
+END
+ConnectingParents.json
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Fixtures/JSON/ConnectingParents.json
+END
+ArrayOfResults.json
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Fixtures/JSON/ArrayOfResults.json
+END
+error.json
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Fixtures/JSON/error.json
+END
+Foursquare.json
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Fixtures/JSON/Foursquare.json
+END
+DynamicKeysWithRelationship.json
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Fixtures/JSON/DynamicKeysWithRelationship.json
+END
+users.json
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Fixtures/JSON/users.json
+END
+DynamicKeysWithNestedRelationship.json
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Fixtures/JSON/DynamicKeysWithNestedRelationship.json
+END
+ArrayOfNestedDictionaries.json
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/ali_cbu_mobile/!svn/ver/19114/apps/mobile_client4ios/branches/20121008_102749_5/alibaba/RestKit/Tests/Fixtures/JSON/ArrayOfNestedDictionaries.json
+END

@@ -1,0 +1,38 @@
+//
+//  AMIMUser.h
+//  AlibabaMobile
+//
+//  Created by cloud ma on 12-3-13.
+//  Copyright (c) 2012年 alibaba. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+
+@interface AMIMUser : NSObject
+
+@property (nonatomic, retain) NSString * uid;
+@property (nonatomic, retain) NSString * name;
+@property (nonatomic, retain) NSString * gender;
+@property (nonatomic, retain) NSString * birthday;
+@property (nonatomic, retain) NSString * zodiac;
+@property (nonatomic, retain) NSString * yearof;
+@property (nonatomic, retain) NSString * country;
+@property (nonatomic, retain) NSString * province;
+@property (nonatomic, retain) NSString * city;
+@property (nonatomic, retain) NSString * cellphone;
+@property (nonatomic, retain) NSString * telephone;
+@property (nonatomic, retain) NSString * email;
+@property (nonatomic, retain) NSString * occupation;
+@property (nonatomic, retain) NSString * school;
+@property (nonatomic, retain) NSString * homepage;
+
+@property (nonatomic, retain) NSString * groupId;
+@property (nonatomic, retain) NSString * nickname;
+
+
+
+@property (nonatomic, assign) int status;
+
+@property (nonatomic, assign) NSString * signature;
+
+@end
