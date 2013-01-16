@@ -1,0 +1,306 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9D2B7914167074890093BE0C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D2B7913167074890093BE0C /* UIKit.framework */; };
+		9D2B7916167074890093BE0C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D2B7915167074890093BE0C /* Foundation.framework */; };
+		9D2B7918167074890093BE0C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D2B7917167074890093BE0C /* CoreGraphics.framework */; };
+		9D2B791E167074890093BE0C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9D2B791C167074890093BE0C /* InfoPlist.strings */; };
+		9D2B7920167074890093BE0C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D2B791F167074890093BE0C /* main.m */; };
+		9D2B7924167074890093BE0C /* SSQUAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D2B7923167074890093BE0C /* SSQUAppDelegate.m */; };
+		9D2B7926167074890093BE0C /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D2B7925167074890093BE0C /* Default.png */; };
+		9D2B7928167074890093BE0C /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D2B7927167074890093BE0C /* Default@2x.png */; };
+		9D2B792A167074890093BE0C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D2B7929167074890093BE0C /* Default-568h@2x.png */; };
+		9D2B792D167074890093BE0C /* SSQUViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D2B792C167074890093BE0C /* SSQUViewController.m */; };
+		9D2B7930167074890093BE0C /* SSQUViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9D2B792E167074890093BE0C /* SSQUViewController.xib */; };
+		9D2B7937167075090093BE0C /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D2B7936167075090093BE0C /* CoreTelephony.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		9D2B790F167074890093BE0C /* StopCallTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StopCallTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D2B7913167074890093BE0C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		9D2B7915167074890093BE0C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		9D2B7917167074890093BE0C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		9D2B791B167074890093BE0C /* StopCallTest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "StopCallTest-Info.plist"; sourceTree = "<group>"; };
+		9D2B791D167074890093BE0C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		9D2B791F167074890093BE0C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		9D2B7921167074890093BE0C /* StopCallTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "StopCallTest-Prefix.pch"; sourceTree = "<group>"; };
+		9D2B7922167074890093BE0C /* SSQUAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SSQUAppDelegate.h; sourceTree = "<group>"; };
+		9D2B7923167074890093BE0C /* SSQUAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SSQUAppDelegate.m; sourceTree = "<group>"; };
+		9D2B7925167074890093BE0C /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		9D2B7927167074890093BE0C /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		9D2B7929167074890093BE0C /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		9D2B792B167074890093BE0C /* SSQUViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SSQUViewController.h; sourceTree = "<group>"; };
+		9D2B792C167074890093BE0C /* SSQUViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SSQUViewController.m; sourceTree = "<group>"; };
+		9D2B792F167074890093BE0C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SSQUViewController.xib; sourceTree = "<group>"; };
+		9D2B7936167075090093BE0C /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9D2B790C167074890093BE0C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9D2B7937167075090093BE0C /* CoreTelephony.framework in Frameworks */,
+				9D2B7914167074890093BE0C /* UIKit.framework in Frameworks */,
+				9D2B7916167074890093BE0C /* Foundation.framework in Frameworks */,
+				9D2B7918167074890093BE0C /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9D2B7904167074890093BE0C = {
+			isa = PBXGroup;
+			children = (
+				9D2B7936167075090093BE0C /* CoreTelephony.framework */,
+				9D2B7919167074890093BE0C /* StopCallTest */,
+				9D2B7912167074890093BE0C /* Frameworks */,
+				9D2B7910167074890093BE0C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9D2B7910167074890093BE0C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9D2B790F167074890093BE0C /* StopCallTest.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9D2B7912167074890093BE0C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9D2B7913167074890093BE0C /* UIKit.framework */,
+				9D2B7915167074890093BE0C /* Foundation.framework */,
+				9D2B7917167074890093BE0C /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		9D2B7919167074890093BE0C /* StopCallTest */ = {
+			isa = PBXGroup;
+			children = (
+				9D2B7922167074890093BE0C /* SSQUAppDelegate.h */,
+				9D2B7923167074890093BE0C /* SSQUAppDelegate.m */,
+				9D2B792B167074890093BE0C /* SSQUViewController.h */,
+				9D2B792C167074890093BE0C /* SSQUViewController.m */,
+				9D2B792E167074890093BE0C /* SSQUViewController.xib */,
+				9D2B791A167074890093BE0C /* Supporting Files */,
+			);
+			path = StopCallTest;
+			sourceTree = "<group>";
+		};
+		9D2B791A167074890093BE0C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				9D2B791B167074890093BE0C /* StopCallTest-Info.plist */,
+				9D2B791C167074890093BE0C /* InfoPlist.strings */,
+				9D2B791F167074890093BE0C /* main.m */,
+				9D2B7921167074890093BE0C /* StopCallTest-Prefix.pch */,
+				9D2B7925167074890093BE0C /* Default.png */,
+				9D2B7927167074890093BE0C /* Default@2x.png */,
+				9D2B7929167074890093BE0C /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9D2B790E167074890093BE0C /* StopCallTest */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9D2B7933167074890093BE0C /* Build configuration list for PBXNativeTarget "StopCallTest" */;
+			buildPhases = (
+				9D2B790B167074890093BE0C /* Sources */,
+				9D2B790C167074890093BE0C /* Frameworks */,
+				9D2B790D167074890093BE0C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = StopCallTest;
+			productName = StopCallTest;
+			productReference = 9D2B790F167074890093BE0C /* StopCallTest.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9D2B7906167074890093BE0C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = SSQU;
+				LastUpgradeCheck = 0450;
+				ORGANIZATIONNAME = "刘 佳";
+			};
+			buildConfigurationList = 9D2B7909167074890093BE0C /* Build configuration list for PBXProject "StopCallTest" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 9D2B7904167074890093BE0C;
+			productRefGroup = 9D2B7910167074890093BE0C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9D2B790E167074890093BE0C /* StopCallTest */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9D2B790D167074890093BE0C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9D2B791E167074890093BE0C /* InfoPlist.strings in Resources */,
+				9D2B7926167074890093BE0C /* Default.png in Resources */,
+				9D2B7928167074890093BE0C /* Default@2x.png in Resources */,
+				9D2B792A167074890093BE0C /* Default-568h@2x.png in Resources */,
+				9D2B7930167074890093BE0C /* SSQUViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9D2B790B167074890093BE0C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9D2B7920167074890093BE0C /* main.m in Sources */,
+				9D2B7924167074890093BE0C /* SSQUAppDelegate.m in Sources */,
+				9D2B792D167074890093BE0C /* SSQUViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		9D2B791C167074890093BE0C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9D2B791D167074890093BE0C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		9D2B792E167074890093BE0C /* SSQUViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9D2B792F167074890093BE0C /* en */,
+			);
+			name = SSQUViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		9D2B7931167074890093BE0C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				VALID_ARCHS = armv7;
+			};
+			name = Debug;
+		};
+		9D2B7932167074890093BE0C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+				VALID_ARCHS = armv7;
+			};
+			name = Release;
+		};
+		9D2B7934167074890093BE0C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "StopCallTest/StopCallTest-Prefix.pch";
+				INFOPLIST_FILE = "StopCallTest/StopCallTest-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALID_ARCHS = armv7;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		9D2B7935167074890093BE0C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "StopCallTest/StopCallTest-Prefix.pch";
+				INFOPLIST_FILE = "StopCallTest/StopCallTest-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALID_ARCHS = armv7;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9D2B7909167074890093BE0C /* Build configuration list for PBXProject "StopCallTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9D2B7931167074890093BE0C /* Debug */,
+				9D2B7932167074890093BE0C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9D2B7933167074890093BE0C /* Build configuration list for PBXNativeTarget "StopCallTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9D2B7934167074890093BE0C /* Debug */,
+				9D2B7935167074890093BE0C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9D2B7906167074890093BE0C /* Project object */;
+}

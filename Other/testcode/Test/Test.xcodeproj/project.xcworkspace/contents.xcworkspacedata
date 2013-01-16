@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "iphone dev exercise">
+      <Group
+         location = "container:"
+         name = "other">
+         <FileRef
+            location = "group:Translate/Translate.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:MyWeb/MyWeb.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:MyTab/MyTab.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:MyPaging/MyPaging.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:TableView/TableView.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:DBTest/DBTest.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:Shake/Shake.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:../../../myapp/QueryUtilites/QueryUtilites.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:StopCallTest/StopCallTest.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:VideoTest/VideoTest.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "container:"
+         name = "7-">
+         <FileRef
+            location = "group:Pick/Pick.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:SimpleTabel/SimpleTabel.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:Cells/Cells.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:Section/Section.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:Nav/Nav.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:Persistence/Persistence.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:CoreData/CoreData.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:QuartzFun/QuartzFun.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:GLFun2/GLFun2.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:TouchExplorer/TouchExplorer.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:Swipes/Swipes.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:CheckPlease/CheckPlease.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:WhereAmI/WhereAmI.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "container:"
+         name = "1-6">
+         <FileRef
+            location = "self:Test.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>
